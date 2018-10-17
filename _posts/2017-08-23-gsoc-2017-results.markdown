@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "GSoC 2017 Results"
+date:   2017-08-23 21:12:00 +0800
+categories: GSoC
+tags: Computer_Science GSoC Android
+---
+My project for GSoC 2017 is [Android Sandbox Detection and Countermeasure][gsoc-project], which came out to be the **ReDroid** toolbox. Most of the plans made before are cleared. This post is presented for the final evaluation for my GSoC 2017 project.
+
+# Project overview
+
+ReDroid is a toolbox for **automatically detecting and countering** anti-sandbox behaviors in Android apps. You can:
+* [View source on GitHub][redroid]
+* [Download as zip file][redroid-zip]
+* [View usage example]({% post_url 2017-08-29-redroid-usage %})
+
+# What we planned
+
+Before GSoC 2017 begins, my GSoC mentor Yuanchun Li discussed with me about the proposal for the GSoC project. Generally our goal is to develop some mechanism that can **counter anti-sandbox techniques presented in Android apps**.
+
+First, We raised three related research questions to solve:
+
+1. What sandbox-detection techniques are applied in Android apps, and how and to what extent are they applied?
+2. Is there a method capable of detecting such sandbox-detection techniques given a sample app?
+3. Is there an app analysis solution undetectable by common sandbox-detection methods?
+
+After that, we came out with a plan with three stages:
+
+1. *Investigating and collecting sandbox-detection techniques used in Android app* (especially malware), and implementing a sample app using those techniques.
+2. *Implementing a **detection-aware system***, which can identify whether an Android app has sandbox-detection techniques inside.
+3. *Implementing an **undetectable system***. Such undetectable system is able to automatically find the detection activities inside an Android app, and convey countermeasures for them using data collected from 2). In such a system, an app would believe that it’s running on as a real device.
+
+# What I have done
+
+|Tasks|&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;|Comments|
+|---|:---:|---|
+|<br/>Investigating and collecting sandbox-detection techniques used in Android app<br/>|<br/>Done<br/>|<br/>Investigated [anti-emulator][anti-emulator], [DenDroid][dendroid] and a malware dataset provided by [contagiominidump.blogspot.com](http://contagiominidump.blogspot.com)<br/>|
+|<br/>Implementing a detection-aware system<br/>|<br/>Done<br/>|<br/>Modified Android source to enable robust and automatic trace collection; Implemented a runtime trace collecting system based on [DroidBot][droidbot] and a heuristic trace difference detection system<br/>|
+|<br/>Implementing an undetectable system<br/>|<br/>Partly<br/>Done<br/>|<br/>Implemented a dynamic control flow correction system based on JDWP and [Xposed][xposed], which is capable for modifying method return values; Modified Android source to enable dynamic control flow correction without known by apps<br/>|
+
+<br/>
+For more details, please visit [this page]({% post_url 2017-06-01-gsoc-2017-progress %})
+
+# What I haven't done yet & future work
+
+1. *Support more complex method return types*: currently ReDroid only supports return values of primitive types and `String` type.
+2. *Support more advanced method hooking*: currently ReDroid only supports hacking methods according to stack trace, and the methods hacked can have only one return value.
+3. *Wrap ReDroid to make it usable for most people*: to run ReDroid, one has to configure real device and emulators, which is much too complicated for normal users. ReDroid can be wrapped into a cloud service in the future.
+
+
+[gsoc-project]: https://summerofcode.withgoogle.com/projects/#4820206829436928
+[droidbot]: https://github.com/honeynet/droidbot
+[anti-emulator]: https://github.com/yzygitzh/anti-emulator
+[dendroid]: https://github.com/yzygitzh/dendroid_apk
+[redroid]: https://github.com/yzygitzh/ReDroid
+[xposed]: https://forum.xda-developers.com/showthread.php?t=3034811
+[redroid]: https://github.com/yzygitzh/ReDroid
+[redroid-zip]: https://github.com/yzygitzh/ReDroid/archive/master.zip
