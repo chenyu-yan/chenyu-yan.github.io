@@ -26,19 +26,20 @@ tags: VR student community 虚拟现实协会
 ### 主要活动
 
 * VR开放日
- 定期开放虚拟现实实验室，通过线上线下宣传的方式，招徕对虚拟现实技术有兴趣的同学来实验室进行体验活动，以实现普及VR技术的目的
+      定期开放虚拟现实实验室，通过线上线下宣传的方式，招徕对虚拟现实技术有兴趣的同学来实验室进行体验活动，以实现普及VR技术的目的
  往期活动
- ** [2018-06-10 儿童节主题VR开放日](https://mp.weixin.qq.com/s/Q6__4yxo64t4bcnvG-Pzlw)
- ** [2018-04-16 恐怖游戏主题VR开放日](https://mp.weixin.qq.com/s/2WlbHkS1x7v5JWeLTDMn0A)
- ** [2017-03-19 自由主题VR开放日](https://mp.weixin.qq.com/s/cmL0hfRCmV_q_yvsEuvPiw)
- ** [2016-12-24 圣诞节主题VR开放日](https://mp.weixin.qq.com/s/sNehe2V-hUnQY36Ld0FQ6g)
- 
- 
+  * [2018-06-10 儿童节主题VR开放日](https://mp.weixin.qq.com/s/Q6__4yxo64t4bcnvG-Pzlw)
+  * [2018-04-16 恐怖游戏主题VR开放日](https://mp.weixin.qq.com/s/2WlbHkS1x7v5JWeLTDMn0A)
+  * [2017-03-19 自由主题VR开放日](https://mp.weixin.qq.com/s/cmL0hfRCmV_q_yvsEuvPiw)
+  * [2016-12-24 圣诞节主题VR开放日](https://mp.weixin.qq.com/s/sNehe2V-hUnQY36Ld0FQ6g)
  
 * VR心潮（原创微信公众号）
- 每日或隔日在社团微信公众平台上发送与虚拟现实技术有关的文章，为更多的人认识与理解虚拟现实技术构建平台。
+      每日或隔日在社团微信公众平台上发送与虚拟现实技术有关的文章，为更多的人认识与理解虚拟现实技术构建平台。
+  * [VR与心系列文章](https://mp.weixin.qq.com/s/3eexrtjWvGimeK4sAKUnLg)
+  * [VR协会X腾讯研究院：《VR心潮》]（https://mp.weixin.qq.com/s/jTsG9GrCE9Gex5L8J6z-ng）
+ 
 * VR工作坊
- 以学期为单位，构建Workshop小组，即：在开放日活动的基础上，挑选对虚拟现实技术的开放应用具有浓厚兴趣、并具有一定编程能力的同学，与核心成员及指导老师共同构建Workshop小组，进行更深层次的学习，并参与实际的程序开发工作。
+      以学期为单位，构建Workshop小组，即：在开放日活动的基础上，挑选对虚拟现实技术的开放应用具有浓厚兴趣、并具有一定编程能力的同学，与核心成员及指导老师共同构建Workshop小组，进行更深层次的学习，并参与实际的程序开发工作。
 
 <br/>
 
