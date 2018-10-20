@@ -5,6 +5,15 @@ date:   2017-11-03 10:58:00 +0800
 categories: Android
 tags: VR student community 虚拟现实协会
 ---
+### 社团名称
+
+浙江大学学生虚拟现实协会
+<br/>
+
+### 注册时间
+
+2017年03月
+<br/>
 
 ### 社团宗旨
 
@@ -69,20 +78,21 @@ Email: <zli1@zju.edu.cn>
 ### 社团元素
 
 
-微信公众号
+* 微信公众号
 
 <div align="center">
 <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Unicode-of-Wechat-Official-Accounts.jpg" width="30%" />
 </div>
 <br/>
 
-会衫
+* 会衫
 
 <div align="center">
 <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Uniform.jpg" width="100%" />
 </div>
+<br/>
 
-开放日海报
+* 开放日海报
 
 <div align="center">
 <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Open-Day-01.jpg" width="50%" />
@@ -91,7 +101,8 @@ Email: <zli1@zju.edu.cn>
 <br/>
 
 
-纳新海报
+* 纳新海报
+
 <div align="center">
  <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-01.jpg" width="50%" />
  <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-02.jpg" width="50%" />
