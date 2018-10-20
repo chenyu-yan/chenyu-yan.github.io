@@ -5,11 +5,13 @@ date:   2017-11-03 10:58:00 +0800
 categories: Android
 tags: VR student community 虚拟现实协会
 ---
+
 ### 社团宗旨
 
 立足校园，服务同学，普及虚拟现实（VR）技术，共聚志同道之人，构建VR创新应用
 
 <br/>
+
 ### 主要活动
 
 * VR开放日&emsp;&emsp;定期开放虚拟现实实验室，通过线上线下宣传的方式，招徕对虚拟现实技术有兴趣的同学来实验室进行体验活动，以实现普及VR技术的目的；
@@ -50,6 +52,7 @@ Email: <zli1@zju.edu.cn>
 第一负责人&emsp;&emsp;严晨毓&emsp;&emsp;浙江大学心理与行为科学系17级博士生&emsp;&emsp;<ycy_qqmailbox@qq.com>
 第二负责人&emsp;&emsp;忻可云&emsp;&emsp;浙江大学心理与行为科学系17级博士生&emsp;&emsp;<936263571@qq.com>
 财务负责人&emsp;&emsp;李泽宇&emsp;&emsp;浙江大学心理与行为科学系16级博士生&emsp;&emsp;<814585477@qq.com>
+
 <br/>
 
 ### 财务制度
