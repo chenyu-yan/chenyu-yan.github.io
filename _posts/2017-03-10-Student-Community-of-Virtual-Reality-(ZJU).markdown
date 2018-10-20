@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Student Community of Virtual Reality in Zhejiang University"
+title:  "Student Community of Virtual Reality（ZJU)"
 date:   2017-11-03 10:58:00 +0800
 categories: Android
 tags: VR student community 虚拟现实协会
@@ -8,10 +8,12 @@ tags: VR student community 虚拟现实协会
 
 ### 指导老师简介
 
-李峙
+李峙 [浙江大学个人主页](https://person.zju.edu.cn/zhi)
 
 浙江大学心理与行为科学系百人计划特聘研究员，博士生导师。致力于将最新的计算机技术应用于脑科学与心理学研究。目前开展的工作包括：使用行为学实验结合虚拟现实技术研究视觉空间感知、空间记忆表征、视觉注意与工作记忆及长时记忆的相互作用、探索基于虚拟现实技术的情绪调节方法等。
+
 实验室地址：浙江大学西溪校区，心理与行为科学系503室
+
 Email: <zli1@zju.edu.cn>
 
 教育经历
