@@ -22,7 +22,7 @@ tags: VR student community 虚拟现实协会
 
 ### 指导老师简介
 
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Photo-of-Prof-Li.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Photo-of-Prof-Li.jpg)
 
 李峙 [浙江大学个人主页](https://person.zju.edu.cn/zhi)
 
@@ -70,22 +70,22 @@ Email: <zli1@zju.edu.cn>
 
 微信公众号
 
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Unicode-of-Wechat-Official-Accounts.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Unicode-of-Wechat-Official-Accounts.jpg)
 
 会衫
 
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Uniform.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Uniform.jpg)
 
 开放日海报
 
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Open-Day-01.jpg)
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Open-Day-02.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Open-Day-01.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Open-Day-02.jpg)
 
 纳新海报
 
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Recruitment-01.jpg)
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Recruitment-02.jpg)
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Recruitment-03.jpg)
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Recruitment-04.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-01.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-02.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-03.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-04.jpg)
 
 
