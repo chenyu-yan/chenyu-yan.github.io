@@ -13,10 +13,8 @@ permalink: /about/
 ## 学术经历
 
 |2016| 美国大学生数学建模竞赛二等奖 |
-
 |2016| 浙江大学第九届学生节能减排竞赛一等奖 |
-
-2016.09     Head Pager，论文被亚洲计算机视觉会议(ACCV)接收， 在Lecture Notes in Computer Science (LNCS)上发表 
+|2016.09| Head Pager，论文被亚洲计算机视觉会议(ACCV)接收， 在Lecture Notes in Computer Science (LNCS)上发表 |
 
 2015.04-2016.05      浙江大学大学生科研训练(SRTP)：计算机辅助构建乳腺模型优秀结题项目负责人 
 
