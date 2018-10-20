@@ -1,1 +1,12 @@
-test here
+---
+layout: post
+title:  "The Structure of This Blog"
+date:   2017-03-15 21:44:52 +0800
+categories: Productivity
+tags: Git
+---
+test
+
+physique
+
+![Blog Structure]({{ site.url }}/assets/2017-03-15-the-structure-of-this-blog/blog-structure.png)
