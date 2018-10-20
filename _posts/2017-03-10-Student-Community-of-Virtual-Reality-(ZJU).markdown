@@ -21,7 +21,7 @@ tags: VR student community 虚拟现实协会
 <br/>
 
 ### 指导老师简介
-<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Photo-of-Prof-Li.jpg" width="30%""/>
+<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Photo-of-Prof-Li.jpg" width="30%"/>
 
 
 李峙 [浙江大学个人主页](https://person.zju.edu.cn/zhi)
@@ -70,10 +70,10 @@ Email: <zli1@zju.edu.cn>
 
 微信公众号
 
-<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Unicode-of-Wechat-Official-Accounts.jpg" width="50%"  align="center/>
+<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Unicode-of-Wechat-Official-Accounts.jpg" width="50%"  align="center"/>
 
 会衫
-<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Uniform.jpg" width="50%"  align="center/>
+<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Uniform.jpg" width="50%"  align="center"/>
 
 
 开放日海报
