@@ -50,8 +50,11 @@ Email: <zli1@zju.edu.cn>
 ### 核心团队
 
 第一负责人&emsp;&emsp;严晨毓&emsp;&emsp;浙江大学心理与行为科学系17级博士生&emsp;&emsp;<ycy_qqmailbox@qq.com>
+
 第二负责人&emsp;&emsp;忻可云&emsp;&emsp;浙江大学心理与行为科学系17级博士生&emsp;&emsp;<936263571@qq.com>
+
 财务负责人&emsp;&emsp;李泽宇&emsp;&emsp;浙江大学心理与行为科学系16级博士生&emsp;&emsp;<814585477@qq.com>
+
 
 <br/>
 
