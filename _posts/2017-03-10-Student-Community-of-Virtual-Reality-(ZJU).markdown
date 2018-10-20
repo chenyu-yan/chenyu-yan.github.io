@@ -70,22 +70,28 @@ Email: <zli1@zju.edu.cn>
 
 微信公众号
 
-<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Unicode-of-Wechat-Official-Accounts.jpg" width="50%"  align="center"/>
+<div align="center">
+<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Unicode-of-Wechat-Official-Accounts.jpg" width="30%" />
+</div>
 
 会衫
-<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Uniform.jpg" width="50%"  align="center"/>
 
+<div align="center">
+<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Uniform.jpg" width="100%" />
+</div>
 
 开放日海报
 
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Open-Day-01.jpg)
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Open-Day-02.jpg)
+<div align="center">
+<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Open-Day-01.jpg" width="50%" />
+<img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Open-Day-02.jpg" width="50%" />
+</div>
+
 
 纳新海报
-
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-01.jpg)
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-02.jpg)
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-03.jpg)
-![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-04.jpg)
-
-
+<div align="center">
+ <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-01.jpg" width="50%" />
+ <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-02.jpg" width="50%" />
+ <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-03.jpg" width="50%" />
+ <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-04.jpg" width="50%" />
+</div>
