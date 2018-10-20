@@ -22,6 +22,8 @@ tags: VR student community 虚拟现实协会
 
 ### 指导老师简介
 
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Photo-of-Prof-Li.jpg)
+
 李峙 [浙江大学个人主页](https://person.zju.edu.cn/zhi)
 
 浙江大学心理与行为科学系百人计划特聘研究员，博士生导师。致力于将最新的计算机技术应用于脑科学与心理学研究。目前开展的工作包括：使用行为学实验结合虚拟现实技术研究视觉空间感知、空间记忆表征、视觉注意与工作记忆及长时记忆的相互作用、探索基于虚拟现实技术的情绪调节方法等。
@@ -62,4 +64,28 @@ Email: <zli1@zju.edu.cn>
 
 * 社团财产归社团集团所有。社团设立“财务负责人”和“财产管理人”两职位，前者负责账目整理及出纳登记工作，并以月为单位公示财务情况；后者负责财产的保管与出纳，对社团财产的使用负责。
 * 原则上普通会员不缴纳会费；参与Workshop等更深层次的培训活动，则根据情况收取一定培训费用。
+
+
+### 社团元素
+
+微信公众号
+
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Unicode-of-Wechat-Official-Accounts.jpg)
+
+会衫
+
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Uniform.jpg)
+
+开放日海报
+
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Open-Day-01.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Open-Day-02.jpg)
+
+纳新海报
+
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Recruitment-01.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Recruitment-02.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Recruitment-03.jpg)
+![Blog Structure]({{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality-(ZJU)/Poster-of-Recruitment-04.jpg)
+
 
