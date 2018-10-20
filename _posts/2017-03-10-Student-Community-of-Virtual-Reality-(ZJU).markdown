@@ -14,9 +14,9 @@ tags: VR student community 虚拟现实协会
 
 ### 主要活动
 
-* VR开放日&emsp;&emsp;定期开放虚拟现实实验室，通过线上线下宣传的方式，招徕对虚拟现实技术有兴趣的同学来实验室进行体验活动，以实现普及VR技术的目的；
-* VR心潮（原创公众号）&emsp;&emsp;每日或隔日在社团微信公众平台上发送与虚拟现实技术有关的文章，为更多的人认识与理解虚拟现实技术构建平台。
-* VR工作坊&emsp;&emsp;以学期为单位，构建Workshop小组，即：在开放日活动的基础上，挑选对虚拟现实技术的开放应用具有浓厚兴趣、并具有一定编程能力的同学，与核心成员及指导老师共同构建Workshop小组，进行更深层次的学习，并参与实际的程序开发工作。
+* VR开放日：&emsp;&emsp;定期开放虚拟现实实验室，通过线上线下宣传的方式，招徕对虚拟现实技术有兴趣的同学来实验室进行体验活动，以实现普及VR技术的目的；
+* VR心潮（原创微信公众号）：&emsp;&emsp;每日或隔日在社团微信公众平台上发送与虚拟现实技术有关的文章，为更多的人认识与理解虚拟现实技术构建平台。
+* VR工作坊：&emsp;&emsp;以学期为单位，构建Workshop小组，即：在开放日活动的基础上，挑选对虚拟现实技术的开放应用具有浓厚兴趣、并具有一定编程能力的同学，与核心成员及指导老师共同构建Workshop小组，进行更深层次的学习，并参与实际的程序开发工作。
 
 <br/>
 
@@ -65,14 +65,16 @@ Email: <zli1@zju.edu.cn>
 * 社团财产归社团集团所有。社团设立“财务负责人”和“财产管理人”两职位，前者负责账目整理及出纳登记工作，并以月为单位公示财务情况；后者负责财产的保管与出纳，对社团财产的使用负责。
 * 原则上普通会员不缴纳会费；参与Workshop等更深层次的培训活动，则根据情况收取一定培训费用。
 
-
+<br/>
 ### 社团元素
+
 
 微信公众号
 
 <div align="center">
 <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Unicode-of-Wechat-Official-Accounts.jpg" width="30%" />
 </div>
+<br/>
 
 会衫
 
@@ -86,6 +88,7 @@ Email: <zli1@zju.edu.cn>
 <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Open-Day-01.jpg" width="50%" />
 <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Open-Day-02.jpg" width="50%" />
 </div>
+<br/>
 
 
 纳新海报
@@ -95,3 +98,4 @@ Email: <zli1@zju.edu.cn>
  <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-03.jpg" width="50%" />
  <img src="{{ site.url }}/assets/2017-03-10-Student-Community-of-Virtual-Reality--ZJU/Poster-of-Recruitment-04.jpg" width="50%" />
 </div>
+<br/>
