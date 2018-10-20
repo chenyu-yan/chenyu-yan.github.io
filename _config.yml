@@ -16,9 +16,9 @@
 title: Chenyu Yan
 email: chenyuyan [AT] zju [DOT] edu [DOT] cn
 description: > # this means to ignore newlines until "baseurl:"
-  香香的烤面筋 可带劲啦
+  Undergraduate doctor of Applied Psychology in Zhejiang University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "chenyu-yan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: chenyu-yan
 
