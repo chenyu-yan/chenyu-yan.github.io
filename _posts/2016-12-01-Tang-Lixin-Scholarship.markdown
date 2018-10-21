@@ -20,6 +20,7 @@ tags: Computer_Science GSoC Android
 
 * 2016-2017年 品牌推广部 干事
     * 负责毕业生寄语收集，编写寄语采集问卷
+    * 测试测试
 * 2017-2018年 品牌推广部 干事
     * 采访并撰写[《启明星｜姚敏侣：不辜负自己，是行动派的自信》](https://mp.weixin.qq.com/s/pTV_ZgGb-XcETDDuayAf8A)
     * 编辑[《启新名企行第二期——走进蚂蚁金服》](https://mp.weixin.qq.com/s/3gxpZ_5jZtWSr88pmsjV5Q)
