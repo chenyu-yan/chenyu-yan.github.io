@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### **中文版（Chinese Version)**
+# **中文版（Chinese Version)**
 
 ## 教育背景
 
@@ -22,7 +22,7 @@ permalink: /about/
 ## 参与项目
 
 |2015.04-2016.05| 浙江大学大学生科研训练(SRTP)：计算机辅助构建乳腺模型优秀结题项目负责人 |
-|2015| 阿里巴巴支付宝移动端数据可视化项目，图表范式设计 |
+|2015| [阿里巴巴支付宝移动端数据可视化项目，图表范式设计](https://chenyu-yan.github.io/design/2015/12/31/Alipay-Charts-Design.html) |
 |2015| 浙江大学数据结构课程网站网页设计 | 
 |2016| 浙江大学竺可桢学院素质拓展网网页设计 |
 |2016| 美国加州校车公交交叉规划 APP，UI 设计 |
@@ -59,7 +59,55 @@ permalink: /about/
 
 
 # **English Version （英文版）**
+
 ## Education
+
+|2013.09-2017.06| Zhejiang University, China; * Mixed Class (Honors Program of Engineering) in Cho KoChen Honors College; * Majored in Digital Media, the institution of Computer Science, GPA 3.84/4.00; * Tang Lixin Scholarship of Zhejiang University; * Tang Lixin Students' Leadership Scholarship of Zhejiang University; * Premium Scholarship for Academic Achievement; * Part-time Counsellor of CKC College; * Head of the Department of Volunteers in CKC college; * League Secretary of Mixed Class 7 |
+|2015.08-2015.09| Summer School in University of California, Los Angleles)
+|2017.09-|Zhejiang University,China; * PhD student of Applied Psychology in the Department of Psychology and Behavioral Science; * Founder and the Head of the [Student Community of Virtual Reality in Zhejiang University](https://chenyu-yan.github.io/android/2017/11/03/Student-Community-of-Virtual-Reality-(ZJU).html) |
+
+## Publication
+
+|2018.01|[《身临其境:那些被VR影响的心灵,身体与社会》(A Review of How Virtual Reality influence Society and Human Mind)](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一
+|2016.09| [HeadPager: Page Turning with Computer Vision Based Head Interaction](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19), accepted by Asian Conference on Computer Vision, published in Lecture Notes in Computer Science (LNCS) |
+
+## Projects
+
+|2015.04-2016.05| Student Research Training Program: Creating Breast Model before Surgery by Binocular Stereo Vision. Outstanding Project. Group leader. |
+|2015| [Mobile Terminal Data Visualization Project](https://chenyu-yan.github.io/Design/2015/12/31/Alipay-Charts-Design.html) |
+|2015| Webpage Design: the Course Website of Data Structure in Zhejiang University | 
+|2016| Webpage Design: the Website of Students' Comprehensive Quality Development in CKC college |
+|2016| UI Design: the Mobile Application of California School Bus Cross Planning |
+|2016| Utilities Design and 3D-print:  Free Combined Multifunctional Umbrella handle |
+|2016| Virtual Reality Game: U-Escape. Programmer. |
+|2016| Virtual Reality Game: DoraVmon. Programmer and Group Leader |
+
+## 社会工作
+
+|2017.03-| 现任[浙江大学虚拟现实协会](https://chenyu-yan.github.io/android/2017/11/03/Student-Community-of-Virtual-Reality-(ZJU).html)创始人（兼现任会长）| 
+|2016.06-| 现任浙江大学竺可桢学院兼职辅导员| 
+|2016.07| 上海真爱梦想基金会技术部实习|
+|2013.06-2017.06| 现任浙江大学竺可桢学院团支书 |
+|2014.06-2015.06| 曾任浙江大学竺可桢学院青年志愿者与暑期社会实践部部长| 
+
+
+## 奖项与表彰
+
+|2016.09-| 浙江大学唐立新奖学金|
+|2016.09| 浙江大学唐立新学生干部奖学金|
+|2016| 美国大学生数学建模竞赛二等奖 |
+|2016| 浙江大学第九届学生节能减排竞赛一等奖 |
+|2015| 亚洲物理学奥林匹克竞赛优秀志愿者 |
+|2015| 第二届世界互联网大会志愿服务先进个人 |
+|2014| 浙江省暑期大学生社会实践活动先进个人 |
+|2014| 浙江省暑期大学生社会实践活动优秀团队（任队长） |   
+|2013-2016| 浙江大学校级优秀团员，浙江大学校级优秀团干部 |
+|2015| [浙江大学青年志愿者服务五星荣誉奖](https://chenyu-yan.github.io/linux/2017/06/30/Volunteering-Activities.html)|
+
+## 兴趣爱好
+
+|语言|英语（托福 105，2014年浙大英语短剧大赛一等奖），英语口译，基础法语，基础意大利语|
+|音乐|唱歌（竺可桢学院十佳歌手），钢琴（八级），古筝（六级） |
 
 ## Academic Performance 
 
@@ -68,14 +116,5 @@ permalink: /about/
 ## Interests 
 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
