@@ -16,7 +16,7 @@ tags: design visualization
 	* 设计图共计26张，分别为饼图、折线图、柱状图、菜单、帮助、配色在不同用户场景下的状态。
 
 <div align="center">
-<img src="{{ site.url }}/assets/2016-12-01-Alipay-Charts-Design/example-01.jpg" width="55%" style="transform: rotate(270deg);"/>
+<img src="{{ site.url }}/assets/2016-12-01-Alipay-Charts-Design/example-01.jpg" width="55%" />
 <br/>
 柱状图设计样例
 
