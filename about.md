@@ -21,6 +21,8 @@ permalink: /about/
 
 ## 参与项目
 
+|2017.09| 腾讯研究院《VR心潮》发布会现场报告：VR与自闭症 |
+|2017| 腾讯研究院 X 李峙研究组 ：[《VR心潮》项目]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %})负责人及撰写人之一 |
 |2015.04-2016.05| 浙江大学大学生科研训练(SRTP)：计算机辅助构建乳腺模型优秀结题项目负责人 |
 |2015| [阿里巴巴支付宝移动端数据可视化项目，图表范式设计]({% post_url 2015-12-31-Alipay-Charts-Design %}) |
 |2015| 浙江大学数据结构课程网站网页设计 | 
@@ -34,8 +36,8 @@ permalink: /about/
 |2017.03-| 现任[浙江大学虚拟现实协会]({% post_url 2017-11-03-Student-Community-of-Virtual-Reality-(ZJU) %})创始人（兼现任会长）| 
 |2016.06-| 现任浙江大学竺可桢学院兼职辅导员| 
 |2016.07| 上海真爱梦想基金会技术部实习|
-|2013.06-2017.06| 现任浙江大学竺可桢学院团支书 |
-|2014.06-2015.06| 曾任浙江大学竺可桢学院青年志愿者与暑期社会实践部部长| 
+|2013.06-2017.06| 浙江大学竺可桢学院团支书 |
+|2014.06-2015.06| 浙江大学竺可桢学院青年志愿者与暑期社会实践部部长| 
 
 
 ## 奖项与表彰
@@ -50,11 +52,23 @@ permalink: /about/
 |2014| 浙江省暑期大学生社会实践活动优秀团队（任队长） |   
 |2013-2016| 浙江大学校级优秀团员，浙江大学校级优秀团干部 |
 |2015| [浙江大学青年志愿者服务五星荣誉奖]({% post_url 2017-06-30-Volunteering-Activities %})|
+|2014| 浙江大学英语短剧大赛一等奖|
 
 ## 兴趣爱好
 
-|语言|英语（托福 105，2014年浙大英语短剧大赛一等奖），英语口译，基础法语，基础意大利语|
+|语言|英语（托福 105），英语口译，基础法语，基础意大利语|
 |音乐|唱歌（竺可桢学院十佳歌手），钢琴（八级），古筝（六级） |
+
+
+## 媒体影响
+
+|2018.07|[【保研分享】严晨毓：加法和减法--从浙大数字媒体到应用心理学](https://mp.weixin.qq.com/s/bCtYU300CdAqCQuhWZd2qA) |
+|2017.09|[【新闻】腾讯研究院发布专业报告 中国虚拟现实产业研究加速](https://finance.sina.cn/2017-09-14/detail-ifykyfwq7316330.d.html)|
+|2017.09|[【新闻】搭上心理学，体验灵魂出窍，腾讯研究院发布报告《VR如何影响人与社会》](http://www.7tin.cn/news/97142.html?from=groupmessage&isappinstalled=0)|
+|2017.09|[【新闻】VR如何影响人与社会？机遇之琴与风险之弦：重磅](https://mp.weixin.qq.com/s/8NLlmWyRq8al1hEGOz2Zaw)|
+|2017.06|[【竺可桢学院宣传片】志愿点亮生活——公益达人严晨毓在竺院等你来](https://mp.weixin.qq.com/s/5ou542ReeQGSxr0_aBxU9Q)|
+|2016.12|[【浙青年】“六有”青年系列之“女神来了！”——严晨毓、顾天舒，热心公益，坚持梦想！](https://mp.weixin.qq.com/s/_VFaEw1K003e4Euk1UiMVQ)|
+|2016.11|[【竺人物】严晨毓——做幸福的追梦人](https://mp.weixin.qq.com/s/XliTt_jftvNHaZuE4_7TGg)|
 
 <br/>
 <br/>
@@ -75,6 +89,8 @@ permalink: /about/
 
 ## Projects
 
+|2017.09| Tencent Research Institute Press Conference Report: VR and autism |
+|2017| [Virtual Reality Study Project]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %}) with Tencent Research Institute. One of the Student Group Leader. |
 |2015.04-2016.05| Student Research Training Program: Creating Breast Model before Surgery by Binocular Stereo Vision. Outstanding Project. Group leader. |
 |2015| [Mobile Terminal Data Visualization Project]({% post_url 2015-12-31-Alipay-Charts-Design %}) |
 |2015| Webpage Design: the Course Website of Data Structure in Zhejiang University | 

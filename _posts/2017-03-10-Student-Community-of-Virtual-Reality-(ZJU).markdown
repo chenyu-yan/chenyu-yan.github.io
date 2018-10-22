@@ -35,8 +35,8 @@ tags: VR student community 虚拟现实协会
  
 * VR心潮（原创微信公众号）
       每日或隔日在社团微信公众平台上发送与虚拟现实技术有关的文章，为更多的人认识与理解虚拟现实技术构建平台
-  * [VR与心系列文章](https://mp.weixin.qq.com/s/3eexrtjWvGimeK4sAKUnLg)
-  * [VR协会x腾讯研究院:《VR心潮》](https://mp.weixin.qq.com/s/jTsG9GrCE9Gex5L8J6z-ng)
+  * [“VR心潮”项目及系列文章]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %})
+
  
 * VR工作坊
       以学期为单位，构建Workshop小组，即：在开放日活动的基础上，挑选对虚拟现实技术的开放应用具有浓厚兴趣、并具有一定编程能力的同学，与核心成员及指导老师共同构建Workshop小组，进行更深层次的学习，并参与实际的程序开发工作
