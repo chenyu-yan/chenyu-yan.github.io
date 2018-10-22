@@ -10,7 +10,7 @@ permalink: /about/
 
 |2013.09-2017.06| 浙江大学，竺可桢荣誉学院混合班，计算机科学与技术学院，数字媒体技术专业，GPA 3.84/4.00; 浙江大学唐立新奖学金、唐立新学生干部奖学金、学业一等奖学金; 担任团支书、部长、兼职辅导员 |
 |2015.08-2015.09|美国加州大学洛杉矶分校（UCLA）暑期课程项目结业
-|2017.09-|浙江大学，心理与行为科学系，应用心理学专业博士在读；[浙江大学虚拟现实协会]({% post_url 2017-11-03-Student-Community-of-Virtual-Reality-(ZJU) %})创始人（兼现任会长）|
+|2017.09-|浙江大学，心理与行为科学系，应用心理学专业博士在读；[浙江大学虚拟现实协会]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %})创始人（兼现任会长）|
 
 
 ## 论文与专著
@@ -24,7 +24,7 @@ permalink: /about/
 |2017.09| 腾讯研究院《VR心潮》发布会现场报告：VR与自闭症 |
 |2017| 腾讯研究院 X 李峙研究组 ：[《VR心潮》项目]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %})负责人及撰写人之一 |
 |2015.04-2016.05| 浙江大学大学生科研训练(SRTP)：计算机辅助构建乳腺模型优秀结题项目负责人 |
-|2015| [阿里巴巴支付宝移动端数据可视化项目，图表范式设计]({% post_url 2015-12-31-Alipay-Charts-Design %}) |
+|2015| [阿里巴巴支付宝移动端数据可视化项目，图表范式设计]({% post_url 2016-12-01-Alipay-Charts-Design %}) |
 |2015| 浙江大学数据结构课程网站网页设计 | 
 |2016| 浙江大学竺可桢学院素质拓展网网页设计 |
 |2016| 美国加州校车公交交叉规划 APP，UI 设计 |
@@ -33,7 +33,7 @@ permalink: /about/
 
 ## 社会工作
 
-|2017.03-| 现任[浙江大学虚拟现实协会]({% post_url 2017-11-03-Student-Community-of-Virtual-Reality-(ZJU) %})创始人（兼现任会长）| 
+|2017.03-| 现任[浙江大学虚拟现实协会]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %})创始人（兼现任会长）| 
 |2016.06-| 现任浙江大学竺可桢学院兼职辅导员| 
 |2016.07| 上海真爱梦想基金会技术部实习|
 |2013.06-2017.06| 浙江大学竺可桢学院团支书 |
@@ -80,7 +80,7 @@ permalink: /about/
 
 |2013.09-2017.06| Zhejiang University, China; * Mixed Class (Honors Program of Engineering) in Cho KoChen Honors College; * Majored in Digital Media, the institution of Computer Science, GPA 3.84/4.00; * Tang Lixin Scholarship of Zhejiang University; * Tang Lixin Students' Leadership Scholarship of Zhejiang University; * Premium Scholarship for Academic Achievement; * Part-time Counsellor of CKC College; * Head of the Department of Volunteers in CKC college; * League Secretary of CKC college |
 |2015.08-2015.09| Summer School in University of California, Los Angleles)
-|2017.09-|Zhejiang University,China; * PhD student of Applied Psychology in the Department of Psychology and Behavioral Science; * Founder and the Head of the [Student Community of Virtual Reality in Zhejiang University]({% post_url 2017-11-03-Student-Community-of-Virtual-Reality-(ZJU) %}) |
+|2017.09-|Zhejiang University,China; * PhD student of Applied Psychology in the Department of Psychology and Behavioral Science; * Founder and the Head of the [Student Community of Virtual Reality in Zhejiang University]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %}) |
 
 ## Publication
 
@@ -92,7 +92,7 @@ permalink: /about/
 |2017.09| Tencent Research Institute Press Conference Report: VR and autism |
 |2017| [Virtual Reality Study Project]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %}) with Tencent Research Institute. One of the Student Group Leader. |
 |2015.04-2016.05| Student Research Training Program: Creating Breast Model before Surgery by Binocular Stereo Vision. Outstanding Project. Group leader. |
-|2015| [Mobile Terminal Data Visualization Project]({% post_url 2015-12-31-Alipay-Charts-Design %}) |
+|2015| [Mobile Terminal Data Visualization Project]({% post_url 2016-12-01-Alipay-Charts-Design %}) |
 |2015| Webpage Design: the Course Website of Data Structure in Zhejiang University | 
 |2016| Webpage Design: the Website of Students' Comprehensive Quality Development in CKC college |
 |2016| UI Design: the Mobile Application of California School Bus Cross Planning |
@@ -102,7 +102,7 @@ permalink: /about/
 
 ## Non-Curriculum Activities
 
-|2017.03-| Founder and the Head of the [Student Community of Virtual Reality in Zhejiang University]({% post_url 2017-11-03-Student-Community-of-Virtual-Reality-(ZJU) %}) | 
+|2017.03-| Founder and the Head of the [Student Community of Virtual Reality in Zhejiang University]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %}) | 
 |2016.06-| Part-time Counsellor of CKC College | 
 |2016.07| Internship at Adream Foundation. Technology and Opereation Intern|
 |2013.06-2017.06| League Secretary of CKC college |
