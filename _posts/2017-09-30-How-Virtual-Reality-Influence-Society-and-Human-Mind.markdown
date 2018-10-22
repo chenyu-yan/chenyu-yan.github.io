@@ -47,6 +47,7 @@ VR作为一种沉浸式、富媒体的信息技术，它对人的可能影响是
 
 
 
+
 * 新闻发布会
 	* [【新闻】腾讯研究院发布专业报告 中国虚拟现实产业研究加速](https://finance.sina.cn/2017-09-14/detail-ifykyfwq7316330.d.html)
 	* [【新闻】搭上心理学，体验灵魂出窍，腾讯研究院发布报告《VR如何影响人与社会》](http://www.7tin.cn/news/97142.html?from=groupmessage&isappinstalled=0)
