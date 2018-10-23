@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Virtual Reality Influence Socity and Human Mind"
+title:  "How Virtual Reality Influence Society and Human Mind"
 date:   2017-09-30 16:34:00 +0800
 categories: Writings 
 tags: VirtualReality 
@@ -26,7 +26,7 @@ VR作为一种沉浸式、富媒体的信息技术，它对人的可能影响是
 	* S-Tech 微信公众号（S-Tech1014）
 * 腾讯研究院S-Tech工作室
 	* 腾讯研究院S-Tech工作室是腾讯研究院旗下的社科研究平台，致力于探究社会与科技的互动关系，覆盖社会学、传播学、心理学、人类学等多个社会科 学领域。S-Tech工作室成立以来开展了多项互联网X社会科学硏究领域的自主研究与合作研究项目，如社交网络斋戒社会实验、寻找朋友圈的失踪者、VR心潮——VR对人与社会的影响的研究、儿童青少年网络健康使用指南、老年人数字反晡、清盐站点系列 研究、AI&Society系列研讨沙龙等。
-	* 实验室（VR协会）公众号（mindinVR）
+	* 实验室（[VR协会]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %})）公众号（mindinVR）
 
 ## 成果发布
 

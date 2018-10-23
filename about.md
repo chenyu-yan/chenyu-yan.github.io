@@ -42,6 +42,7 @@ permalink: /about/
 
 ## 奖项与表彰
 
+|2017-2018| [优秀研究生](http://47.98.252.100/index/notice/detail/id/302.html) |
 |2016.09-| [浙江大学唐立新奖学金]({% post_url 2016-12-01-Tang-Lixin-Scholarship %}) |
 |2016.09| [浙江大学唐立新学生干部奖学金]({% post_url 2016-12-01-Tang-Lixin-Scholarship %}) |
 |2016| 美国大学生数学建模竞赛二等奖 |
@@ -111,6 +112,7 @@ permalink: /about/
 
 ## Awards
 
+|2017-2018| [Excellent Graduate Student](http://47.98.252.100/index/notice/detail/id/302.html) |
 |2016.09-| [Tang Lixin Scholarship of Zhejiang University]({% post_url 2016-12-01-Tang-Lixin-Scholarship %}) |
 |2016.09| [Tang Lixin Students' Leadership Scholarship of Zhejiang University]({% post_url 2016-12-01-Tang-Lixin-Scholarship %}) |
 |2016| Honorable Mention of American College Student Mathematical Contest in Modeling |
