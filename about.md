@@ -15,8 +15,9 @@ permalink: /about/
 
 ## 论文与专著
 
-|2019.11| [Memories of motor adaptation do not necessarily decay with behavioral unlearning. *EBR*](https://link.springer.com/article/10.1007/s00221-019-05703-y)|
-|2018.01| [《身临其境:那些被VR影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一
+|2019.11| [Memories of motor adaptation do not necessarily decay with behavioral unlearning. *EBR.*](https://link.springer.com/article/10.1007/s00221-019-05703-y)|
+|2019.07| Why spatial perception has astonishing biases: An explanation from the perspective of motor control. *[CVSC2019](http://cvcs2019.csp.escience.cn).*| 
+|2018.01| [《身临其境:那些被VR影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一|
 |2016.09| [HeadPager: Page Turning with Computer Vision Based Head Interaction](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19)，论文被亚洲计算机视觉会议(ACCV)接收， 在Lecture Notes in Computer Science (LNCS)上发表 |
 
 
@@ -89,6 +90,8 @@ permalink: /about/
 
 ## Publication
 
+|2019.11| [Memories of motor adaptation do not necessarily decay with behavioral unlearning. *EBR.*](https://link.springer.com/article/10.1007/s00221-019-05703-y)|
+|2019.07| Why spatial perception has astonishing biases: An explanation from the perspective of motor control. *[CVSC2019](http://cvcs2019.csp.escience.cn).*| 
 |2018.01|[《身临其境:那些被VR影响的心灵,身体与社会》(A Review of How Virtual Reality influence Society and Human Mind)](http://www.seph.com.cn/BookDetail.aspx?Id=806), published by Shanghai Educational Publishing House. One of the Main Writers |
 |2016.09| [HeadPager: Page Turning with Computer Vision Based Head Interaction](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19), accepted by Asian Conference on Computer Vision, published in Lecture Notes in Computer Science (LNCS) |
 
@@ -107,6 +110,7 @@ permalink: /about/
 
 ## Non-Curriculum Activities
 
+|2020.08|[Harvard HCAUSCR Summit for Young Leaders in China](https://mp.weixin.qq.com/s/eCeXrCyEfMa6LhsGaYb9zQ) as Chinese Instructor-[More Information](https://www.jianshu.com/p/8c4646a794da)|
 |2017.03-| Founder and the Head of the [Student Community of Virtual Reality in Zhejiang University]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %}) | 
 |2016.06-2019.08| Part-time Counsellor of CKC College | 
 |2016.07| Internship at Adream Foundation. Technology and Opereation Intern|
