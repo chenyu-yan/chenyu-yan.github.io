@@ -14,13 +14,13 @@ permalink: /about/
 
 
 ## 论文与专著
-
+|2019.11|[]()|
 |2018.01|[《身临其境:那些被VR影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一
 |2016.09| [HeadPager: Page Turning with Computer Vision Based Head Interaction](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19)，论文被亚洲计算机视觉会议(ACCV)接收， 在Lecture Notes in Computer Science (LNCS)上发表 |
 
 
 ## 参与项目
-
+|2020.08|[哈佛HSYLC峰会](https://mp.weixin.qq.com/s/eCeXrCyEfMa6LhsGaYb9zQ)中文授课人-[相关信息](https://www.jianshu.com/p/8c4646a794da)|
 |2017.09| 腾讯研究院《VR心潮》发布会现场报告：VR与自闭症 |
 |2017| 腾讯研究院 X 李峙研究组 ：[《VR心潮》项目]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %})负责人及撰写人之一 |
 |2015.04-2016.05| 浙江大学大学生科研训练(SRTP)：计算机辅助构建乳腺模型优秀结题项目负责人 |
@@ -32,9 +32,9 @@ permalink: /about/
 |2016| 虚拟现实游戏  U-Escape （主程序），DoraVmon （主程序、组长）开发 |
 
 ## 社会工作
-
+|2019.05-| 现任浙江大学心理与行为科学系17级博士班班长|
 |2017.03-| 现任[浙江大学虚拟现实协会]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %})创始人（兼现任会长）| 
-|2016.06-| 现任浙江大学竺可桢学院兼职辅导员| 
+|2016.06-2019.08| 浙江大学竺可桢学院兼职辅导员| 
 |2016.07| 上海真爱梦想基金会技术部实习|
 |2013.06-2017.06| 浙江大学竺可桢学院团支书 |
 |2014.06-2015.06| 浙江大学竺可桢学院青年志愿者与暑期社会实践部部长| 
@@ -63,6 +63,7 @@ permalink: /about/
 
 ## 媒体影响
 
+|2020.02|[【人民日报】助力在线课程： VR让学生爱上课堂（作者：严晨毓）](https://wap.peopleapp.com/article/rmh11661797/rmh11661797?from=groupmessage&isappinstalled=0)|
 |2018.07|[【保研分享】严晨毓：加法和减法--从浙大数字媒体到应用心理学](https://mp.weixin.qq.com/s/bCtYU300CdAqCQuhWZd2qA) |
 |2017.09|[【新闻】腾讯研究院发布专业报告 中国虚拟现实产业研究加速](https://finance.sina.cn/2017-09-14/detail-ifykyfwq7316330.d.html)|
 |2017.09|[【新闻】搭上心理学，体验灵魂出窍，腾讯研究院发布报告《VR如何影响人与社会》](http://www.7tin.cn/news/97142.html?from=groupmessage&isappinstalled=0)|
@@ -104,7 +105,7 @@ permalink: /about/
 ## Non-Curriculum Activities
 
 |2017.03-| Founder and the Head of the [Student Community of Virtual Reality in Zhejiang University]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %}) | 
-|2016.06-| Part-time Counsellor of CKC College | 
+|2016.06-2019.08| Part-time Counsellor of CKC College | 
 |2016.07| Internship at Adream Foundation. Technology and Opereation Intern|
 |2013.06-2017.06| League Secretary of CKC college |
 |2014.06-2015.06| Head of the Department of Volunteers in CKC college | 
