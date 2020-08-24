@@ -14,12 +14,14 @@ permalink: /about/
 
 
 ## 论文与专著
-|2019.11|[Memories of motor adaptation do not necessarily decay with behavioral unlearning. *EBR*](https://link.springer.com/article/10.1007/s00221-019-05703-y)|
-|2018.01|[《身临其境:那些被VR影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一
+
+|2019.11| [Memories of motor adaptation do not necessarily decay with behavioral unlearning. *EBR*](https://link.springer.com/article/10.1007/s00221-019-05703-y)|
+|2018.01| [《身临其境:那些被VR影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一
 |2016.09| [HeadPager: Page Turning with Computer Vision Based Head Interaction](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19)，论文被亚洲计算机视觉会议(ACCV)接收， 在Lecture Notes in Computer Science (LNCS)上发表 |
 
 
 ## 参与项目
+
 |2020.08|[哈佛HSYLC峰会](https://mp.weixin.qq.com/s/eCeXrCyEfMa6LhsGaYb9zQ)中文授课人-[相关信息](https://www.jianshu.com/p/8c4646a794da)|
 |2017.09| 腾讯研究院《VR心潮》发布会现场报告：VR与自闭症 |
 |2017| 腾讯研究院 X 李峙研究组 ：[《VR心潮》项目]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %})负责人及撰写人之一 |
@@ -32,6 +34,7 @@ permalink: /about/
 |2016| 虚拟现实游戏  U-Escape （主程序），DoraVmon （主程序、组长）开发 |
 
 ## 社会工作
+
 |2019.05-| 现任浙江大学心理与行为科学系17级博士班班长|
 |2017.03-| 现任[浙江大学虚拟现实协会]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %})创始人（兼现任会长）| 
 |2016.06-2019.08| 浙江大学竺可桢学院兼职辅导员| 
