@@ -14,7 +14,7 @@ permalink: /about/
 
 
 ## 论文与专著
-|2019.11|[]()|
+|2019.11|[Memories of motor adaptation do not necessarily decay with behavioral unlearning. *EBR*](https://link.springer.com/article/10.1007/s00221-019-05703-y)|
 |2018.01|[《身临其境:那些被VR影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一
 |2016.09| [HeadPager: Page Turning with Computer Vision Based Head Interaction](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19)，论文被亚洲计算机视觉会议(ACCV)接收， 在Lecture Notes in Computer Science (LNCS)上发表 |
 
