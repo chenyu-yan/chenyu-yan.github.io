@@ -8,9 +8,11 @@ permalink: /about/
 
 ## 教育背景
 
-|2013.09-2017.06| 浙江大学，竺可桢荣誉学院混合班，计算机科学与技术学院，数字媒体技术专业，GPA 3.84/4.00; 浙江大学唐立新奖学金、唐立新学生干部奖学金、学业一等奖学金; 担任团支书、部长、兼职辅导员 |
-|2015.08-2015.09|美国加州大学洛杉矶分校（UCLA）暑期课程项目结业
 |2017.09-|浙江大学，心理与行为科学系，应用心理学专业博士在读；[浙江大学虚拟现实协会]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %})创始人（兼现任会长）|
+|2015.08-2015.09|美国加州大学洛杉矶分校（UCLA）暑期课程项目结业
+|2013.09-2017.06| 浙江大学，竺可桢荣誉学院混合班，计算机科学与技术学院，数字媒体技术专业，GPA 3.84/4.00; 浙江大学唐立新奖学金、唐立新学生干部奖学金、学业一等奖学金; 担任团支书、部长、兼职辅导员 |
+
+
 
 
 ## 论文与专著
@@ -23,7 +25,8 @@ permalink: /about/
 
 ## 参与项目
 
-|2020.08|[哈佛HSYLC峰会](https://mp.weixin.qq.com/s/eCeXrCyEfMa6LhsGaYb9zQ)中文授课人-[相关信息](https://www.jianshu.com/p/8c4646a794da)|
+|2017.09-| 国家自然科学基金：空间感知偏差反映的视觉感知与运动控制间相互作用机制的研究-学生负责人|
+|2020.08| [哈佛HSYLC峰会](https://mp.weixin.qq.com/s/eCeXrCyEfMa6LhsGaYb9zQ)中文授课人-[相关信息](https://www.jianshu.com/p/8c4646a794da)|
 |2017.09| 腾讯研究院《VR心潮》发布会现场报告：VR与自闭症 |
 |2017| 腾讯研究院 X 李峙研究组 ：[《VR心潮》项目]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %})负责人及撰写人之一 |
 |2015.04-2016.05| 浙江大学大学生科研训练(SRTP)：计算机辅助构建乳腺模型优秀结题项目负责人 |
@@ -84,9 +87,9 @@ permalink: /about/
 
 ## Education
 
-|2013.09-2017.06| Zhejiang University, China; * Mixed Class (Honors Program of Engineering) in Cho KoChen Honors College; * Majored in Digital Media, the institution of Computer Science, GPA 3.84/4.00; * Tang Lixin Scholarship of Zhejiang University; * Tang Lixin Students' Leadership Scholarship of Zhejiang University; * Premium Scholarship for Academic Achievement; * Part-time Counsellor of CKC College; * Head of the Department of Volunteers in CKC college; * League Secretary of CKC college |
-|2015.08-2015.09| Summer School in University of California, Los Angleles)
 |2017.09-|Zhejiang University,China; * PhD student of Applied Psychology in the Department of Psychology and Behavioral Science; * Founder and the Head of the [Student Community of Virtual Reality in Zhejiang University]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %}) |
+|2015.08-2015.09| Summer School in University of California, Los Angleles)
+|2013.09-2017.06| Zhejiang University, China; * Mixed Class (Honors Program of Engineering) in Cho KoChen Honors College; * Majored in Digital Media, the institution of Computer Science, GPA 3.84/4.00; * Tang Lixin Scholarship of Zhejiang University; * Tang Lixin Students' Leadership Scholarship of Zhejiang University; * Premium Scholarship for Academic Achievement; * Part-time Counsellor of CKC College; * Head of the Department of Volunteers in CKC college; * League Secretary of CKC college |
 
 ## Publication
 
@@ -97,6 +100,7 @@ permalink: /about/
 
 ## Projects
 
+|2017.09-| The National Natural Science Foundation of China：空间感知偏差反映的视觉感知与运动控制间相互作用机制的研究-Student Research Leader|
 |2017.09| Tencent Research Institute Press Conference Report: VR and autism |
 |2017| [Virtual Reality Study Project]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %}) with Tencent Research Institute. One of the Student Group Leader. |
 |2015.04-2016.05| Student Research Training Program: Creating Breast Model before Surgery by Binocular Stereo Vision. Outstanding Project. Group leader. |
