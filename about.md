@@ -26,7 +26,6 @@ permalink: /about/
 ## 参与项目
 
 |2017.09-| 国家自然科学基金：空间感知偏差反映的视觉感知与运动控制间相互作用机制的研究-学生负责人|
-|2020.08| [哈佛HSYLC峰会](https://mp.weixin.qq.com/s/eCeXrCyEfMa6LhsGaYb9zQ)中文授课人-[相关信息](https://www.jianshu.com/p/8c4646a794da)|
 |2017.09| 腾讯研究院《VR心潮》发布会现场报告：VR与自闭症 |
 |2017| 腾讯研究院 X 李峙研究组 ：[《VR心潮》项目]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %})负责人及撰写人之一 |
 |2015.04-2016.05| 浙江大学大学生科研训练(SRTP)：计算机辅助构建乳腺模型优秀结题项目负责人 |
@@ -36,6 +35,18 @@ permalink: /about/
 |2016| 美国加州校车公交交叉规划 APP，UI 设计 |
 |2016| 自由组合式多功能伞柄产品设计和实现 |
 |2016| 虚拟现实游戏  U-Escape （主程序），DoraVmon （主程序、组长）开发 |
+
+
+## 教学经验
+
+|2020.08| [哈佛HSYLC峰会](https://mp.weixin.qq.com/s/eCeXrCyEfMa6LhsGaYb9zQ)中文授课人-[相关信息](https://www.jianshu.com/p/8c4646a794da)|
+|2019-2020| 英语家教：英语阅读与口语训练（准一年级学生）|
+|2020.03-2020.05| 浙江大学心理与行为科学系研究生专业课程：基于虚拟现实技术的心理学研究方法；助教，主讲之一|
+|2019.09-2020.01| 浙江大学国际校区本科生通识课程：心理导论；助教|
+|2019.09-2020.01| 浙江大学竺可桢学院本科生通识课程：认知科学；助教|
+|2019.03-2019.05| 浙江大学心理与行为科学系研究生专业课程：基于虚拟现实技术的心理学研究方法；助教，主讲之一|
+|2017.09-2017.11| 浙江大学心理与行为科学系本科生通识课程：心理学及其应用；助教|
+|2016-2017| 英语家教：英语阅读与口语训练（小学一年级、五年级学生）|
 
 ## 社会工作
 
@@ -112,9 +123,22 @@ permalink: /about/
 |2016| Virtual Reality Game: U-Escape. Programmer |
 |2016| Virtual Reality Game: DoraVmon. Programmer and Group Leader |
 
-## Non-Curriculum Activities
+
+## Teaching Experience
 
 |2020.08|[Harvard HCAUSCR Summit for Young Leaders in China](https://mp.weixin.qq.com/s/eCeXrCyEfMa6LhsGaYb9zQ) as Chinese Instructor-[More Information](https://www.jianshu.com/p/8c4646a794da)|
+|2019-2020| English Tutor : English reading and speaking (5 years old)|
+|2020.03-2020.05| 浙江大学心理与行为科学系研究生专业课程：基于虚拟现实技术的心理学研究方法；助教，主讲之一|
+|2019.09-2020.01| 浙江大学国际校区本科生通识课程：心理导论；助教|
+|2019.09-2020.01| 浙江大学竺可桢学院本科生通识课程：认知科学；助教|
+|2019.03-2019.05| 浙江大学心理与行为科学系研究生专业课程：基于虚拟现实技术的心理学研究方法；助教，主讲之一|
+|2017.09-2017.11| 浙江大学心理与行为科学系本科生通识课程：心理学及其应用；助教|
+|2016-2017| 英语家教：英语阅读与口语训练（小学一年级、五年级学生）|
+
+
+## Non-Curriculum Activities
+
+
 |2017.03-| Founder and the Head of the [Student Community of Virtual Reality in Zhejiang University]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %}) | 
 |2016.06-2019.08| Part-time Counsellor of CKC College | 
 |2016.07| Internship at Adream Foundation. Technology and Opereation Intern|
