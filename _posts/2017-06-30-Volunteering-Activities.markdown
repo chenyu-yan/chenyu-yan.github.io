@@ -2,7 +2,7 @@
 layout: post
 title:  "Volunteering Activities"
 date:   2017-06-30 09:00:00 +0800
-categories: Linux
+categories: Non-Curriculum Activities
 tags: volunteer
 ---
 ## **个人公益经历简介**
