@@ -2,7 +2,7 @@
 layout: post
 title:  "Student Community of Virtual Reality（ZJU)"
 date:   2017-11-03 10:58:00 +0800
-categories: Non-Curriculum Activities
+categories: Activities
 tags: VR student community 虚拟现实协会
 ---
 ### **基本信息**
