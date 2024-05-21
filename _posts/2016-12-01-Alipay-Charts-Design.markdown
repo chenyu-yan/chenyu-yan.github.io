@@ -2,7 +2,7 @@
 layout: post
 title:  "Alipay Charts Design"
 date:   2015-12-31 16:34:00 +0800
-categories: Design
+categories: Projects
 tags: design visualization
 ---
 
