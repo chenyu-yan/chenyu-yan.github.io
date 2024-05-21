@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# **中文版（Chinese Version)**
+# **中文版（Chinese Version)** (更新至2024.05）
 
 ## 个人简介
 
-严晨毓，教育学院课程与学习科学系博士后。本科毕业于浙江大学计算机学院数字媒体技术系，博士毕业于浙江大学心理与行为科学系。[浙江大学虚拟现实协会]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %})创始人。主要研究方向为虚拟现实技术在心理与教育研究中的应用，近期特别关注儿童早期发展相关研究。以第一作者发表 SCI 论文 2 篇；作为主编之一出版《身临其境:那些被 VR 影响的心灵,身体与社会》一书；助教并主讲浙大心理系研究生课程《基于虚拟现实技术的心理学研究方法》；作为授课人在哈佛 HSYLC 峰会面向高中生开展 VR 科普类课程。
+严晨毓，现任浙江大学教育学院博士后。于浙江大学心理与行为科学系获得博士学位，于浙江大学计算机学院数字媒体技术系获得学士学位。主要研究方向为人类内隐学习机制，结合虚拟现实、眼动、近红外等技术探讨语言、情绪、运动的发展规律及后天经验的影响。近五年发表SCI论文3篇（第一作者2篇）；作为主编之一出版《身临其境:那些被 VR 影响的心灵,身体与社会》一书；助教并主讲浙大心理系多门研究生和本科生课程；作为授课人在哈佛 HSYLC 峰会面向高中生开展 VR 科普类课程。
 
 ## 教育背景
 
@@ -19,29 +19,29 @@ permalink: /about/
 ## 工作经历
 
 | 2022.09 至今 | 浙江大学 教育学院 课程与学习科学系 博士后 |
-
-## 研究方向
-
-主要研究方向为虚拟现实技术在心理与教育研究中的应用，近期特别关注儿童早期发展相关研究。
+| 2021.07-2021.09 | 华为杭州研究院暑期实习 用户研究员 申请专利1项（CN116466864A) |
 
 ## 发表作品
-
-| 2022.07 | [Perceptual scale expansion: A natural design for improving the precision of motor control. *QJEP.*](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
-| 2019.12 | [Memories of motor adaptation do not necessarily decay with behavioral unlearning. *EBR.*](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
+| 2024.04 | [Lu, R., Li, Z., Yan, C., Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019)|
+| 2022.07 | [Yan, C., Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
+| 2019.12 | [Yan, C., Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
 | 2018.01 | [《身临其境：那些被 VR 影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一 |
-| 2016.09 | [HeadPager: Page Turning with Computer Vision Based Head Interaction](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19)，论文被亚洲计算机视觉会议（ACCV）接收， 在 Lecture Notes in Computer Science（LNCS）上发表 |
+| 2016.09 | [Tang, Z., Yan, C., Ren, S., & Wan, H. (2017). HeadPager: page turning with computer vision based head interaction. In Computer Vision–ACCV 2016 Workshops: ACCV 2016 International Workshops, Taipei, Taiwan, November 20-24, 2016, Revised Selected Papers, Part III 13 (pp. 249-257). Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19)，论文被亚洲计算机视觉会议（ACCV）接收， 在 Lecture Notes in Computer Science（LNCS）上发表 |
 
 ## 参加会议
-
-| 2021.10 | Long term Persistence of Context Dependent Visuomotor Memory. *[第二十三届全国心理学学术会议](http://nacp2021.psysoc.org.cn/program.php).* |
-| 2021.05 | Overnight Persistence of Context Dependent Visuomotor Memory in a Virtual Reality Tossing Task. *[ICVR 2021](http://www.icvr.org/icvr21.html).* |
-| 2019.07 | Why spatial perception has astonishing biases: An explanation from the perspective of motor control. *[CVSC2019](http://cvcs2019.csp.escience.cn).* |
+| 2023.11.10 - 2023.11.12 | 严晨毓, 徐琴美, 刘涛, 马洒, 成梦婷, 葛雨箐. 10-20个月婴儿快乐和悲伤音乐情绪感知比较. 中国心理学会发展心理专业委员会第十六届学术年会. 江苏南京师范大学 |
+| 2023.12.16 - 2023.12.17 | 严晨毓, 徐琴美, 刘涛, 马洒, 成梦婷, 葛雨箐. 婴幼儿快乐和悲伤音乐情绪感知-脑活动比较. National Symposium on fNIRS. 澳门大学. |
+| 2022.07.05 - 2022.07.06 | 陈昕源, 严晨毓, 徐琴美. 5-9 个月婴儿对音乐情感的知觉. 第十八届浙江省心理学学术会议. 浙江省绍兴市. |
+| 2021.09.03 - 2021.09.24 | 严晨毓, 李峙. 运动学习中情境线索的作用如何随时间变化. [第二十三届全国心理学学术会议](http://nacp2021.psysoc.org.cn/program.php). 呼和浩特市内蒙古师范大学. |
+| 2021.05.20 - 2021.05.22 | Chenyu Yan, Haimin Wang, Jianwen Zhou, Zhi Li. Overnight Persistence of Context Dependent Visuomotor Memory in a Virtual Reality Tossing Task. [2021 IEEE 7th International Conference on Virtual Reality](http://www.icvr.org/icvr21.html). Foshan. |
+| 2019307.05 - 2019.07.08 | Chenyu Yan, Yilin Chen, Zhi Li. Why spatial perception has astonishing biases: An explanation from the perspective of motor control. [第四届中国视觉科学会议](http://cvcs2019.csp.escience.cn). 四川省成都市. *.* |
 
 ## 参与项目
 
 | 2022.09 至今 | 婴儿对音乐情感的共鸣，项目负责人 |
+| 2020.09 - 2022.06 | 国家自然科学基金：视觉瞬时记忆的认知功能研究（主持人：李峙），参与成员 |
 | 2018.09 - 2022.06 | 虚拟现实场景中的情境效应，项目负责人 |
-| 2017.09 - 2021.12 | 国家自然科学基金：空间感知偏差反映的视觉感知与运动控制间相互作用机制的研究，学生负责人 |
+| 2017.09 - 2021.12 | 国家自然科学基金：空间感知偏差反映的视觉感知与运动控制间相互作用机制的研究（主持人：李峙），学生负责人 |
 | 2017.09 | 腾讯研究院《VR 心潮》发布会现场报告：VR 与自闭症 |
 | 2017 | 腾讯研究院 X 李峙研究组 ：[《VR 心潮》项目]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %})负责人及撰写人之一 |
 | 2015.04 - 2016.05 | 浙江大学大学生科研训练（SRTP）：计算机辅助构建乳腺模型优秀结题项目负责人 |
@@ -109,7 +109,7 @@ permalink: /about/
 <br/>
 
 
-# **English Version （英文版）**
+# **English Version （英文版）** (Last Update: 2024.05)
 
 ## Education
 
@@ -119,46 +119,50 @@ permalink: /about/
 
 ## Publication
 
-|2019.11| [Memories of motor adaptation do not necessarily decay with behavioral unlearning. *EBR.*](https://link.springer.com/article/10.1007/s00221-019-05703-y)|
-|2019.07| Why spatial perception has astonishing biases: An explanation from the perspective of motor control. *[CVSC2019](http://cvcs2019.csp.escience.cn).*| 
-|2018.01|[《身临其境:那些被VR影响的心灵,身体与社会》(A Review of How Virtual Reality influence Society and Human Mind)](http://www.seph.com.cn/BookDetail.aspx?Id=806), published by Shanghai Educational Publishing House. One of the Main Writers |
-|2016.09| [HeadPager: Page Turning with Computer Vision Based Head Interaction](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19), accepted by Asian Conference on Computer Vision, published in Lecture Notes in Computer Science (LNCS) |
+| 2024.04 | [Lu, R., Li, Z., Yan, C., Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019)|
+| 2022.07 | [Yan, C., Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
+| 2019.12 | [Yan, C., Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
+| 2018.01 | [《身临其境：那些被 VR 影响的心灵,身体与社会》(A Review of How Virtual Reality influence Society and Human Mind)](http://www.seph.com.cn/BookDetail.aspx?Id=806), published by Shanghai Educational Publishing House. One of the Main Writers |
+| 2016.09 | [Tang, Z., Yan, C., Ren, S., & Wan, H. (2017). HeadPager: page turning with computer vision based head interaction. In Computer Vision–ACCV 2016 Workshops: ACCV 2016 International Workshops, Taipei, Taiwan, November 20-24, 2016, Revised Selected Papers, Part III 13 (pp. 249-257). Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19) |
+
 
 ## Projects
 
-|2017.09-| The National Natural Science Foundation of China：空间感知偏差反映的视觉感知与运动控制间相互作用机制的研究-Student Research Leader|
-|2017.09| Tencent Research Institute Press Conference Report: VR and autism |
-|2017| [Virtual Reality Study Project]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %}) with Tencent Research Institute. One of the Student Group Leader. |
-|2015.04-2016.05| Student Research Training Program: Creating Breast Model before Surgery by Binocular Stereo Vision. Outstanding Project. Group leader. |
-|2015| [Mobile Terminal Data Visualization Project]({% post_url 2016-12-01-Alipay-Charts-Design %}) |
-|2015| Webpage Design: the Course Website of Data Structure in Zhejiang University | 
-|2016| Webpage Design: the Website of Students' Comprehensive Quality Development in CKC college |
-|2016| UI Design: the Mobile Application of California School Bus Cross Planning |
-|2016| Utilities Design and 3D-print:  Free Combined Multifunctional Umbrella handle |
-|2016| Virtual Reality Game: U-Escape. Programmer |
-|2016| Virtual Reality Game: DoraVmon. Programmer and Group Leader |
+| 2022.09 - Present | Emotional Resonance of Infants to Music, Project Leader |
+| 2020.09 - 2022.06 | National Natural Science Foundation: Cognitive Function Study of Visual Short-Term Memory (Principal Investigator: Li Zhi), Group Member |
+| 2018.09 - 2022.06 | Context Effects in Virtual Reality Scenarios, Project Leader |
+| 2017.09 - 2021.12 | National Natural Science Foundation: Study of the Interaction Mechanisms Between Visual Perception and Motor Control Reflected by Spatial Perception Bias (Principal Investigator: Li Zhi), Student Leader |
+| 2017.09 | Tencent Research Institute "VR Tide" Launch Report: VR and Autism |
+| 2017 | Tencent Research Institute X Li Zhi Research Group: ["VR Tide" Project]({% post_url 2017-09-30-How-Virtual-Reality-Influence-Society-and-Human-Mind %}), Co-Leader and Author |
+| 2015.04 - 2016.05 | Zhejiang University Student Research Training Program (SRTP): Excellent Completion of the Computer-Aided Breast Model Construction Project, Project Leader |
+| 2015 | [Alibaba Alipay Mobile Data Visualization Project, Chart Paradigm Design]({% post_url 2016-12-01-Alipay-Charts-Design %}) |
+| 2015 | Web Design for Zhejiang University Data Structures Course Website |
+| 2016 | Web Design for Zhejiang University Chu Kochen Honors College Quality Development Network |
+| 2016 | School Bus and Public Bus Interchange Planning App in California, USA, UI Design |
+| 2016 | Free-Combination Multifunctional Umbrella Handle Product Design and Implementation |
+| 2016 | Virtual Reality Game U-Escape (Lead Programmer), DoraVmon (Lead Programmer, Team Leader) Development |
 
 
 ## Teaching Experience
 
-|2020.08|[Harvard HCAUSCR Summit for Young Leaders in China](https://mp.weixin.qq.com/s/eCeXrCyEfMa6LhsGaYb9zQ) as Chinese Instructor-[More Information](https://www.jianshu.com/p/8c4646a794da)|
-|2019-2020| English Tutor : English reading and speaking (5 years old)|
-|2020.03-2020.05| 浙江大学心理与行为科学系研究生专业课程：基于虚拟现实技术的心理学研究方法；助教，主讲之一|
-|2019.09-2020.01| 浙江大学国际校区本科生通识课程：心理导论；助教|
-|2019.09-2020.01| 浙江大学竺可桢学院本科生通识课程：认知科学；助教|
-|2019.03-2019.05| 浙江大学心理与行为科学系研究生专业课程：基于虚拟现实技术的心理学研究方法；助教，主讲之一|
-|2017.09-2017.11| 浙江大学心理与行为科学系本科生通识课程：心理学及其应用；助教|
-|2016-2017| 英语家教：英语阅读与口语训练（小学一年级、五年级学生）|
-
+| 2020.08 | Harvard HSYLC Summit Chinese Instructor - Related Information |
+| 2019 - 2020 | English Tutor: English Reading and Speaking Training (Pre-First Grade Student) |
+| 2020.03 - 2020.05 | Graduate Course in the Department of Psychology and Behavioral Sciences, Zhejiang University: Psychological Research Methods Based on Virtual Reality Technology; Teaching Assistant, Co-Lecturer |
+| 2019.09 - 2020.01 | Undergraduate General Education Course at Zhejiang University International Campus: Introduction to Psychology; Teaching Assistant |
+| 2019.09 - 2020.01 | Undergraduate General Education Course at Zhejiang University Chu Kochen Honors College: Cognitive Science; Teaching Assistant |
+| 2019.03 - 2019.05 | Graduate Course in the Department of Psychology and Behavioral Sciences, Zhejiang University: Psychological Research Methods Based on Virtual Reality Technology; Teaching Assistant, Co-Lecturer |
+| 2017.09 - 2017.11 | Undergraduate General Education Course in the Department of Psychology and Behavioral Sciences, Zhejiang University: Psychology and Its Applications; Teaching Assistant |
+| 2016 - 2017 | English Tutor: English Reading and Speaking Training (First and Fifth Grade Students) |
 
 ## Non-Curriculum Activities
 
 
-|2017.03-| Founder and the Head of the [Student Community of Virtual Reality in Zhejiang University]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %}) | 
-|2016.06-2019.08| Part-time Counsellor of CKC College | 
-|2016.07| Internship at Adream Foundation. Technology and Opereation Intern|
-|2013.06-2017.06| League Secretary of CKC college |
-|2014.06-2015.06| Head of the Department of Volunteers in CKC college | 
+| 2019.05 - 2022.06 | Class President of the 2017 PhD Class, Department of Psychology and Behavioral Sciences, Zhejiang University |
+| 2017.03 - 2022.06 | Founder and Current President of the [Zhejiang University Virtual Reality Association]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %}) |
+| 2016.06 - 2019.08 | Part-time Counselor at Zhejiang University Chu Kochen Honors College |
+| 2016.07 | Internship at the Technology Department, Shanghai True Love Dreams Foundation |
+| 2013.06 - 2017.06 | Secretary of the Youth League, Zhejiang University Chu Kochen Honors College |
+| 2014.06 - 2015.06 | Head of the Youth Volunteers and Summer Social Practice Department, Zhejiang University Chu Kochen Honors College |
 
 
 ## Awards
