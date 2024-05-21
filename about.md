@@ -22,9 +22,10 @@ permalink: /about/
 | 2021.07-2021.09 | 华为杭州研究院暑期实习 用户研究员 申请专利1项（CN116466864A) |
 
 ## 发表作品
-| 2024.04 | [Lu, R., Li, Z., Yan, C., Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019)|
-| 2022.07 | [Yan, C., Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
-| 2019.12 | [Yan, C., Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
+| 2024.04 | Lu, R., Li, Z., Yan, C., Wang, T., & Li, Z. (2024). [Storage interference in working memory cannot be removed by attention](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019). Journal of Memory and Language, 136, 104498.|
+
+| 2022.07 | [Yan, C., Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd). |
+| 2019.12 | [Yan, C., Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y). |
 | 2018.01 | [《身临其境：那些被 VR 影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一 |
 | 2016.09 | [Tang, Z., Yan, C., Ren, S., & Wan, H. (2017). HeadPager: page turning with computer vision based head interaction. In Computer Vision–ACCV 2016 Workshops: ACCV 2016 International Workshops, Taipei, Taiwan, November 20-24, 2016, Revised Selected Papers, Part III 13 (pp. 249-257). Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19)，论文被亚洲计算机视觉会议（ACCV）接收， 在 Lecture Notes in Computer Science（LNCS）上发表 |
 
