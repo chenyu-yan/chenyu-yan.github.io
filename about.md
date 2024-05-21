@@ -22,6 +22,7 @@ permalink: /about/
 | 2021.07-2021.09 | 华为杭州研究院暑期实习 用户研究员 申请专利1项（CN116466864A) |
 
 ## 发表作品
+
 | 2024.04 | [Lu, R., Li, Z., Yan, C., Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
 | 2022.07 | [Yan, C., Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
 | 2019.12 | [Yan, C., Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
@@ -29,6 +30,7 @@ permalink: /about/
 | 2016.09 | [Tang, Z., Yan, C., Ren, S., & Wan, H. (2017). HeadPager: page turning with computer vision based head interaction. In Computer Vision–ACCV 2016 Workshops: ACCV 2016 International Workshops, Taipei, Taiwan, November 20-24, 2016, Revised Selected Papers, Part III 13 (pp. 249-257). Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19)，论文被亚洲计算机视觉会议（ACCV）接收， 在 Lecture Notes in Computer Science（LNCS）上发表 |
 
 ## 参加会议
+
 | 2023.11.10 - 2023.11.12 | 严晨毓, 徐琴美, 刘涛, 马洒, 成梦婷, 葛雨箐. 10-20个月婴儿快乐和悲伤音乐情绪感知比较. 中国心理学会发展心理专业委员会第十六届学术年会. 江苏南京师范大学 |
 | 2023.12.16 - 2023.12.17 | 严晨毓, 徐琴美, 刘涛, 马洒, 成梦婷, 葛雨箐. 婴幼儿快乐和悲伤音乐情绪感知-脑活动比较. National Symposium on fNIRS. 澳门大学. |
 | 2022.07.05 - 2022.07.06 | 陈昕源, 严晨毓, 徐琴美. 5-9 个月婴儿对音乐情感的知觉. 第十八届浙江省心理学学术会议. 浙江省绍兴市. |
