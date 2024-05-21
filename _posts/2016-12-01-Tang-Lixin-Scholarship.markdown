@@ -2,7 +2,7 @@
 layout: post
 title:  "Tang Lixin Scholarship"
 date:   2017-06-01 16:34:00 +0800
-categories: scholarship community
+categories: Awards
 tags: Computer_Science GSoC Android
 ---
 
