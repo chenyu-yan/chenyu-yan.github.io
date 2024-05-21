@@ -23,20 +23,20 @@ permalink: /about/
 
 ## 发表作品
 
-| 2024.04 | [Lu, R., Li, Z., Yan, C., Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
-| 2022.07 | [Yan, C., Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
-| 2019.12 | [Yan, C., Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
+| 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
+| 2022.07 | [**Yan, C.**, Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
+| 2019.12 | [**Yan, C.**, Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
 | 2018.01 | [《身临其境：那些被 VR 影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一 |
-| 2016.09 | [Tang, Z., Yan, C., Ren, S., & Wan, H. (2017). HeadPager: page turning with computer vision based head interaction. In Computer Vision–ACCV 2016 Workshops: ACCV 2016 International Workshops, Taipei, Taiwan, November 20-24, 2016, Revised Selected Papers, Part III 13 (pp. 249-257). Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19)，论文被亚洲计算机视觉会议（ACCV）接收， 在 Lecture Notes in Computer Science（LNCS）上发表 |
+| 2016.09 | [Tang, Z., **Yan, C.**, Ren, S., & Wan, H. (2017). HeadPager: page turning with computer vision based head interaction. In Computer Vision–ACCV 2016 Workshops: ACCV 2016 International Workshops, Taipei, Taiwan, November 20-24, 2016, Revised Selected Papers, Part III 13 (pp. 249-257). Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19) |
 
 ## 参加会议
 
-| 2023.11.10 - 2023.11.12 | 严晨毓, 徐琴美, 刘涛, 马洒, 成梦婷, 葛雨箐. 10-20个月婴儿快乐和悲伤音乐情绪感知比较. 中国心理学会发展心理专业委员会第十六届学术年会. 江苏南京师范大学 |
-| 2023.12.16 - 2023.12.17 | 严晨毓, 徐琴美, 刘涛, 马洒, 成梦婷, 葛雨箐. 婴幼儿快乐和悲伤音乐情绪感知-脑活动比较. National Symposium on fNIRS. 澳门大学. |
-| 2022.07.05 - 2022.07.06 | 陈昕源, 严晨毓, 徐琴美. 5-9 个月婴儿对音乐情感的知觉. 第十八届浙江省心理学学术会议. 浙江省绍兴市. |
-| 2021.09.03 - 2021.09.24 | 严晨毓, 李峙. 运动学习中情境线索的作用如何随时间变化. [第二十三届全国心理学学术会议](http://nacp2021.psysoc.org.cn/program.php). 呼和浩特市内蒙古师范大学. |
-| 2021.05.20 - 2021.05.22 | Chenyu Yan, Haimin Wang, Jianwen Zhou, Zhi Li. Overnight Persistence of Context Dependent Visuomotor Memory in a Virtual Reality Tossing Task. [2021 IEEE 7th International Conference on Virtual Reality](http://www.icvr.org/icvr21.html). Foshan. |
-| 2019307.05 - 2019.07.08 | Chenyu Yan, Yilin Chen, Zhi Li. Why spatial perception has astonishing biases: An explanation from the perspective of motor control. [第四届中国视觉科学会议](http://cvcs2019.csp.escience.cn). 四川省成都市. |
+| 2023.11.10 - 2023.11.12 | **严晨毓**, 徐琴美, 刘涛, 马洒, 成梦婷, 葛雨箐. 10-20个月婴儿快乐和悲伤音乐情绪感知比较. 中国心理学会发展心理专业委员会第十六届学术年会. 江苏南京师范大学 |
+| 2023.12.16 - 2023.12.17 | **严晨毓**, 徐琴美, 刘涛, 马洒, 成梦婷, 葛雨箐. 婴幼儿快乐和悲伤音乐情绪感知-脑活动比较. National Symposium on fNIRS. 澳门大学. |
+| 2022.07.05 - 2022.07.06 | 陈昕源, **严晨毓**, 徐琴美. 5-9 个月婴儿对音乐情感的知觉. 第十八届浙江省心理学学术会议. 浙江省绍兴市. |
+| 2021.09.03 - 2021.09.24 | **严晨毓**, 李峙. 运动学习中情境线索的作用如何随时间变化. [第二十三届全国心理学学术会议](http://nacp2021.psysoc.org.cn/program.php). 呼和浩特市内蒙古师范大学. |
+| 2021.05.20 - 2021.05.22 | **Chenyu Yan**, Haimin Wang, Jianwen Zhou, Zhi Li. Overnight Persistence of Context Dependent Visuomotor Memory in a Virtual Reality Tossing Task. [2021 IEEE 7th International Conference on Virtual Reality](http://www.icvr.org/icvr21.html). Foshan. |
+| 2019307.05 - 2019.07.08 | **Chenyu Yan**, Yilin Chen, Zhi Li. Why spatial perception has astonishing biases: An explanation from the perspective of motor control. [第四届中国视觉科学会议](http://cvcs2019.csp.escience.cn). 四川省成都市. |
 
 ## 参与项目
 
@@ -129,12 +129,12 @@ permalink: /about/
 
 ## Academic Conferences and Presentations
 
-| 2023.11.10 - 2023.11.12 | Yan Chenyu, Xu Qinmei, Liu Tao, Ma Sa, Cheng Mengting, Ge Yuqing. Comparison of Emotional Perception of Happy and Sad Music in 10-20 Month-Old Infants. The 16th Academic Annual Conference of the Developmental Psychology Committee of the Chinese Psychological Society. Nanjing Normal University, Jiangsu |
-| 2023.12.16 - 2023.12.17 | Yan Chenyu, Xu Qinmei, Liu Tao, Ma Sa, Cheng Mengting, Ge Yuqing. Comparison of Happy and Sad Music Emotional Perception and Brain Activity in Infants and Toddlers. National Symposium on fNIRS. University of Macau |
-| 2022.07.05 - 2022.07.06 | Chen Xinyuan, Yan Chenyu, Xu Qinmei. Emotional Perception of Music in 5-9 Month-Old Infants. The 18th Zhejiang Psychological Academic Conference. Shaoxing, Zhejiang Province |
-| 2021.09.03 - 2021.09.24 | Yan Chenyu, Li Zhi. How the Role of Contextual Cues in Motor Learning Changes Over Time. The 23rd National Academic Conference of Psychology. Inner Mongolia Normal University, Hohhot |
-| 2021.05.20 - 2021.05.22 | Chenyu Yan, Haimin Wang, Jianwen Zhou, Zhi Li. Overnight Persistence of Context Dependent Visuomotor Memory in a Virtual Reality Tossing Task. 2021 IEEE 7th International Conference on Virtual Reality. Foshan |
-| 2019.07.05 - 2019.07.08 | Chenyu Yan, Yilin Chen, Zhi Li. Why Spatial Perception Has Astonishing Biases: An Explanation from the Perspective of Motor Control. The 4th Chinese Conference on Vision Science. Chengdu, Sichuan Province |
+| 2023.11.10 - 2023.11.12 | **Yan Chenyu**, Xu Qinmei, Liu Tao, Ma Sa, Cheng Mengting, Ge Yuqing. Comparison of Emotional Perception of Happy and Sad Music in 10-20 Month-Old Infants. The 16th Academic Annual Conference of the Developmental Psychology Committee of the Chinese Psychological Society. Nanjing Normal University, Jiangsu |
+| 2023.12.16 - 2023.12.17 | **Yan Chenyu**, Xu Qinmei, Liu Tao, Ma Sa, Cheng Mengting, Ge Yuqing. Comparison of Happy and Sad Music Emotional Perception and Brain Activity in Infants and Toddlers. National Symposium on fNIRS. University of Macau |
+| 2022.07.05 - 2022.07.06 | Chen Xinyuan, **Yan Chenyu**, Xu Qinmei. Emotional Perception of Music in 5-9 Month-Old Infants. The 18th Zhejiang Psychological Academic Conference. Shaoxing, Zhejiang Province |
+| 2021.09.03 - 2021.09.24 | **Yan Chenyu**, Li Zhi. How the Role of Contextual Cues in Motor Learning Changes Over Time. The 23rd National Academic Conference of Psychology. Inner Mongolia Normal University, Hohhot |
+| 2021.05.20 - 2021.05.22 | **Chenyu Yan**, Haimin Wang, Jianwen Zhou, Zhi Li. Overnight Persistence of Context Dependent Visuomotor Memory in a Virtual Reality Tossing Task. 2021 IEEE 7th International Conference on Virtual Reality. Foshan |
+| 2019.07.05 - 2019.07.08 | **Chenyu Yan**, Yilin Chen, Zhi Li. Why Spatial Perception Has Astonishing Biases: An Explanation from the Perspective of Motor Control. The 4th Chinese Conference on Vision Science. Chengdu, Sichuan Province |
 
 ## Projects
 
