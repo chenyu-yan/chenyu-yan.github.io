@@ -2,7 +2,7 @@
 layout: post
 title:  "How Virtual Reality Influence Society and Human Mind"
 date:   2017-09-30 16:34:00 +0800
-categories: Writings 
+categories: Publications
 tags: VirtualReality 
 ---
 
