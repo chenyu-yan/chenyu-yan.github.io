@@ -23,12 +23,12 @@ permalink: /about/
 
 ## 发表作品
 
-| 2024.12 | **严晨毓**,陈昕源,徐琴美*. (2024）5-9个月婴儿对音乐情绪的感知：基于瞳孔反应的分析.*心理科学*.  |
-| 2024.12 | [**严晨毓**,徐琴美*,刘涛,成梦婷,马洒,葛雨箐.(2024). 婴儿能否感知音乐情绪？来自预期违背范式的证据. *心理与行为研究*. 22(4).494-500.](https://psybeh.tjnu.edu.cn/CN/10.12139/j.1672-0628.2024.04.009)  |
-| 2024.09 | 成梦婷, 徐琴美*, 葛雨箐, 马洒, **严晨毓**.(2024).母亲回应方式与婴儿情绪调节策略使用的关系.*心理发展与教育*. |
-| 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z.* (2024). Storage interference in working memory cannot be removed by attention. *Journal of Memory and Language*, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
-| 2022.07 | [**Yan, C.**, Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z.* (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. *Quarterly Journal of Experimental Psychology*, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
-| 2019.12 | [**Yan, C.**, Chen, Y., Lu, Z., & Li, Z.* (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. *Experimental Brain Research*, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
+| 2024.12 | **严晨毓**,陈昕源,徐琴美. (2024）5-9个月婴儿对音乐情绪的感知：基于瞳孔反应的分析.*心理科学*.  |
+| 2024.12 | [**严晨毓**,徐琴美,刘涛,成梦婷,马洒,葛雨箐.(2024). 婴儿能否感知音乐情绪？来自预期违背范式的证据. *心理与行为研究*. 22(4).494-500.](https://psybeh.tjnu.edu.cn/CN/10.12139/j.1672-0628.2024.04.009)  |
+| 2024.09 | 成梦婷, 徐琴美, 葛雨箐, 马洒, **严晨毓**.(2024).母亲回应方式与婴儿情绪调节策略使用的关系.*心理发展与教育*. |
+| 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. *Journal of Memory and Language*, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
+| 2022.07 | [**Yan, C.**, Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. *Quarterly Journal of Experimental Psychology*, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
+| 2019.12 | [**Yan, C.**, Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. *Experimental Brain Research*, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
 | 2018.01 | [《身临其境：那些被 VR 影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一 |
 | 2016.09 | [Tang, Z.*, **Yan, C.**, Ren, S., & Wan, H. (2017). HeadPager: page turning with computer vision based head interaction. In Computer Vision–ACCV 2016 Workshops: ACCV 2016 International Workshops, Taipei, Taiwan, November 20-24, 2016, Revised Selected Papers, Part III 13 (pp. 249-257). Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19) |
 
@@ -124,9 +124,9 @@ permalink: /about/
 
 ## Publication
 
-| 2024.12 | **Chenyu Yan**, Xinyuan Chen, Qinmei Xu*. (2024）Musical Emotion Perception in 5–9 Month Old Infants: Analysis Based on Pupil Responses.*Journal of Psychological Science*.  |
-| 2024.12 | [**Chenyu Yan**, Qinmei Xu*, Tao Liu, Mengting Cheng, Sa Ma, Yuqing Ge.(2024). Infant Perception of Emotions from Music: Evidence from Violation-of-Expectation Paradigm. *Studies of Psychology and Behavior*. 22(4).494-500.](https://psybeh.tjnu.edu.cn/CN/10.12139/j.1672-0628.2024.04.009)  |
-| 2024.09 | Mengting Cheng, Qinmei Xu*, Yuqing Ge, Sa Ma, **Chenyu Yan**.(2024).The Relationship between Maternal Responses and Infant Emotion Regulation Strategies.*Psychological Development and Education*. |
+| 2024.12 | **Chenyu Yan**, Xinyuan Chen, Qinmei Xu. (2024）Musical Emotion Perception in 5–9 Month Old Infants: Analysis Based on Pupil Responses.*Journal of Psychological Science*.  |
+| 2024.12 | [**Chenyu Yan**, Qinmei Xu, Tao Liu, Mengting Cheng, Sa Ma, Yuqing Ge.(2024). Infant Perception of Emotions from Music: Evidence from Violation-of-Expectation Paradigm. *Studies of Psychology and Behavior*. 22(4).494-500.](https://psybeh.tjnu.edu.cn/CN/10.12139/j.1672-0628.2024.04.009)  |
+| 2024.09 | Mengting Cheng, Qinmei Xu, Yuqing Ge, Sa Ma, **Chenyu Yan**.(2024).The Relationship between Maternal Responses and Infant Emotion Regulation Strategies.*Psychological Development and Education*. |
 | 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
 | 2022.07 | [**Yan, C.**, Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
 | 2019.12 | [**Yan, C.**, Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
