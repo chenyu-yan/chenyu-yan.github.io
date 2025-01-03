@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# **中文版（Chinese Version)** (更新至2024.05）
+# **中文版（Chinese Version)** (更新至2025.01）
 
 ## 个人简介
 
-严晨毓，现任浙江大学教育学院博士后。于浙江大学心理与行为科学系获得博士学位，于浙江大学计算机学院数字媒体技术系获得学士学位。主要研究方向为人类内隐学习机制，结合虚拟现实、眼动、近红外等技术探讨语言、情绪、运动的发展规律及后天经验的影响。近五年发表SCI论文3篇（第一作者2篇）；作为主编之一出版《身临其境:那些被 VR 影响的心灵,身体与社会》一书；助教并主讲浙大心理系多门研究生和本科生课程；作为授课人在哈佛 HSYLC 峰会面向高中生开展 VR 科普类课程。
+严晨毓，现任浙江大学医学院附属儿童医院助理研究员。于浙江大学心理与行为科学系获得博士学位，于浙江大学计算机学院数字媒体技术系获得学士学位。目前主要研究方向为人类内隐学习机制，结合虚拟现实、眼动、近红外等技术探讨语言、情绪、运动的发展规律及后天经验的影响，正在开展自闭症、多动症情绪发展相关研究。近五年发表SCI论文3篇（第一作者2篇），国内核心刊物论文3篇（第一作者2篇）；作为主编之一出版《身临其境:那些被 VR 影响的心灵,身体与社会》一书；助教并主讲浙大心理系多门研究生和本科生课程；作为授课人在哈佛 HSYLC 峰会面向高中生开展 VR 科普类课程。
 
 ## 教育背景
 
@@ -18,16 +18,19 @@ permalink: /about/
 
 ## 工作经历
 
-| 2022.09 至今 | 浙江大学 教育学院 课程与学习科学系 博士后 |
+| 2022.09-2024.08 | 浙江大学 教育学院 课程与学习科学系 博士后 |
 | 2021.07-2021.09 | 华为杭州研究院暑期实习 用户研究员 申请专利1项（CN116466864A) |
 
 ## 发表作品
 
-| 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
-| 2022.07 | [**Yan, C.**, Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
-| 2019.12 | [**Yan, C.**, Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
+| 2024.12 | **严晨毓**,陈昕源,徐琴美*. (2024）5-9个月婴儿对音乐情绪的感知：基于瞳孔反应的分析.*心理科学*.  |
+| 2024.12 | [**严晨毓**,徐琴美*,刘涛,成梦婷,马洒,葛雨箐.(2024). 婴儿能否感知音乐情绪？来自预期违背范式的证据. *心理与行为研究*. 22(4).494-500.](https://psybeh.tjnu.edu.cn/CN/10.12139/j.1672-0628.2024.04.009)  |
+| 2024.09 | 成梦婷, 徐琴美*, 葛雨箐, 马洒, **严晨毓**.(2024).母亲回应方式与婴儿情绪调节策略使用的关系.*心理发展与教育*. |
+| 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z.* (2024). Storage interference in working memory cannot be removed by attention. *Journal of Memory and Language*, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
+| 2022.07 | [**Yan, C.**, Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z.* (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. *Quarterly Journal of Experimental Psychology*, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
+| 2019.12 | [**Yan, C.**, Chen, Y., Lu, Z., & Li, Z.* (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. *Experimental Brain Research*, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
 | 2018.01 | [《身临其境：那些被 VR 影响的心灵,身体与社会》](http://www.seph.com.cn/BookDetail.aspx?Id=806)，上海教育出版社出版，主编之一 |
-| 2016.09 | [Tang, Z., **Yan, C.**, Ren, S., & Wan, H. (2017). HeadPager: page turning with computer vision based head interaction. In Computer Vision–ACCV 2016 Workshops: ACCV 2016 International Workshops, Taipei, Taiwan, November 20-24, 2016, Revised Selected Papers, Part III 13 (pp. 249-257). Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19) |
+| 2016.09 | [Tang, Z.*, **Yan, C.**, Ren, S., & Wan, H. (2017). HeadPager: page turning with computer vision based head interaction. In Computer Vision–ACCV 2016 Workshops: ACCV 2016 International Workshops, Taipei, Taiwan, November 20-24, 2016, Revised Selected Papers, Part III 13 (pp. 249-257). Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-54526-4_19) |
 
 ## 参加会议
 
@@ -35,8 +38,8 @@ permalink: /about/
 | 2023.12.16 - 2023.12.17 | **严晨毓**, 徐琴美, 刘涛, 马洒, 成梦婷, 葛雨箐. 婴幼儿快乐和悲伤音乐情绪感知-脑活动比较. National Symposium on fNIRS. 澳门大学. |
 | 2022.07.05 - 2022.07.06 | 陈昕源, **严晨毓**, 徐琴美. 5-9 个月婴儿对音乐情感的知觉. 第十八届浙江省心理学学术会议. 浙江省绍兴市. |
 | 2021.09.03 - 2021.09.24 | **严晨毓**, 李峙. 运动学习中情境线索的作用如何随时间变化. [第二十三届全国心理学学术会议](http://nacp2021.psysoc.org.cn/program.php). 呼和浩特市内蒙古师范大学. |
-| 2021.05.20 - 2021.05.22 | **Chenyu Yan**, Haimin Wang, Jianwen Zhou, Zhi Li. Overnight Persistence of Context Dependent Visuomotor Memory in a Virtual Reality Tossing Task. [2021 IEEE 7th International Conference on Virtual Reality](http://www.icvr.org/icvr21.html). Foshan. |
-| 2019307.05 - 2019.07.08 | **Chenyu Yan**, Yilin Chen, Zhi Li. Why spatial perception has astonishing biases: An explanation from the perspective of motor control. [第四届中国视觉科学会议](http://cvcs2019.csp.escience.cn). 四川省成都市. |
+| 2021.05.20 - 2021.05.22 | **Chenyu Yan**, Haimin Wang, Jianwen Zhou, Zhi Li*. Overnight Persistence of Context Dependent Visuomotor Memory in a Virtual Reality Tossing Task. [2021 IEEE 7th International Conference on Virtual Reality](http://www.icvr.org/icvr21.html). Foshan. |
+| 2019307.05 - 2019.07.08 | **Chenyu Yan**, Yilin Chen, Zhi Li*. Why spatial perception has astonishing biases: An explanation from the perspective of motor control. [第四届中国视觉科学会议](http://cvcs2019.csp.escience.cn). 四川省成都市. |
 
 ## 参与项目
 
@@ -121,6 +124,9 @@ permalink: /about/
 
 ## Publication
 
+| 2024.12 | **Chenyu Yan**, Xinyuan Chen, Qinmei Xu*. (2024）Musical Emotion Perception in 5–9 Month Old Infants: Analysis Based on Pupil Responses.*Journal of Psychological Science*.  |
+| 2024.12 | [**Chenyu Yan**, Qinmei Xu*, Tao Liu, Mengting Cheng, Sa Ma, Yuqing Ge.(2024). Infant Perception of Emotions from Music: Evidence from Violation-of-Expectation Paradigm. *Studies of Psychology and Behavior*. 22(4).494-500.](https://psybeh.tjnu.edu.cn/CN/10.12139/j.1672-0628.2024.04.009)  |
+| 2024.09 | Mengting Cheng, Qinmei Xu*, Yuqing Ge, Sa Ma, **Chenyu Yan**.(2024).The Relationship between Maternal Responses and Infant Emotion Regulation Strategies.*Psychological Development and Education*. |
 | 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
 | 2022.07 | [**Yan, C.**, Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
 | 2019.12 | [**Yan, C.**, Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
@@ -165,7 +171,6 @@ permalink: /about/
 | 2016 - 2017 | English Tutor: English Reading and Speaking Training (First and Fifth Grade Students) |
 
 ## Non-Curriculum Activities
-
 
 | 2019.05 - 2022.06 | Class President of the 2017 PhD Class, Department of Psychology and Behavioral Sciences, Zhejiang University |
 | 2017.03 - 2022.06 | Founder and Current President of the [Zhejiang University Virtual Reality Association]({% post_url 2017-03-10-Student-Community-of-Virtual-Reality-(ZJU) %}) |
