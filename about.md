@@ -24,7 +24,8 @@ permalink: /about/
 
 ## 发表作品
 
-| 2024.12 | [**严晨毓**,陈昕源,徐琴美. (2024). 5-9个月婴儿对音乐情绪的感知：基于瞳孔反应的分析.*心理科学*. 48(1).44-52. ](https://jps.ecnu.edu.cn/CN/10.16719/j.cnki.1671-6981.20250105) |
+| 2025.07 | [车月苹，阮雯聪，徐佳露，李海峰*，**严晨毓***. (2025). 孤独症谱系障碍患儿家长心理健康状况及影响因素分析.*中国优生与遗传杂志*. 33(7).1659-1663. ]([https://jps.ecnu.edu.cn/CN/10.16719/j.cnki.1671-6981.20250105](https://kns.cnki.net/kcms2/article/abstract?v=Ss1McYY34CfjHz-jhrQQsAVxBL25KHKmtE4rE4SvcIBjAXKwkbWIuMIIK12-5SeA5thFraopngFwOL78Qv1-T0jMQgEuxb6hwEAN8p2daXvga71ve2bkammP3aSIDMoRJ5HEVxkvyfbUl_pmhookxsvqJky-ninrOrkOWuq2vIk=&uniplatform=NZKPT)) |
+| 2025.01 | [**严晨毓**,陈昕源,徐琴美. (2025). 5-9个月婴儿对音乐情绪的感知：基于瞳孔反应的分析.*心理科学*. 48(1).44-52. ](https://jps.ecnu.edu.cn/CN/10.16719/j.cnki.1671-6981.20250105) |
 | 2024.12 | [**严晨毓**,徐琴美,刘涛,成梦婷,马洒,葛雨箐.(2024). 婴儿能否感知音乐情绪？来自预期违背范式的证据. *心理与行为研究*. 22(4).494-500.](https://psybeh.tjnu.edu.cn/CN/10.12139/j.1672-0628.2024.04.009)  |
 | 2024.09 | 成梦婷, 徐琴美, 葛雨箐, 马洒, **严晨毓**.(2024).母亲回应方式与婴儿情绪调节策略使用的关系.*心理发展与教育*. |
 | 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. *Journal of Memory and Language*, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
@@ -125,7 +126,8 @@ permalink: /about/
 
 ## Publication
 
-| 2024.12 | **Chenyu Yan**, Xinyuan Chen, Qinmei Xu. (2024）Musical Emotion Perception in 5–9 Month Old Infants: Analysis Based on Pupil Responses.*Journal of Psychological Science*.  |
+| 2025.07 | Yueping Che, Wencong Ruan, Jialu Xu, Haifeng Li, **Chenyu Yan***. (2025). Parental mental health and associated factors in families of children with autism spectrum disorder.*Chinese Journal of Birth Health & Heredity*. 33(7).1659-1663. |
+| 2025.01 | **Chenyu Yan**, Xinyuan Chen, Qinmei Xu. (2024）Musical Emotion Perception in 5–9 Month Old Infants: Analysis Based on Pupil Responses.*Journal of Psychological Science*.  |
 | 2024.12 | [**Chenyu Yan**, Qinmei Xu, Tao Liu, Mengting Cheng, Sa Ma, Yuqing Ge.(2024). Infant Perception of Emotions from Music: Evidence from Violation-of-Expectation Paradigm. *Studies of Psychology and Behavior*. 22(4).494-500.](https://psybeh.tjnu.edu.cn/CN/10.12139/j.1672-0628.2024.04.009)  |
 | 2024.09 | Mengting Cheng, Qinmei Xu, Yuqing Ge, Sa Ma, **Chenyu Yan**.(2024).The Relationship between Maternal Responses and Infant Emotion Regulation Strategies.*Psychological Development and Education*. |
 | 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
