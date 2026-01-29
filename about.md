@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# **中文版（Chinese Version)** (更新至2025.12）
+# **中文版（Chinese Version)** (更新至2026.1）
 
 ## 个人简介
 
-严晨毓，现任浙江大学医学院附属儿童医院助理研究员，浙江省妇幼健康协会孤独症谱系障碍防治专业委员会委员，格里菲斯发育量表中文版认证评估师。于浙江大学心理与行为科学系获得博士学位，于浙江大学计算机学院数字媒体技术系获得学士学位。目前主要研究方向为儿童早期发展，结合虚拟现实、眼动、近红外等技术探讨语言、情绪、运动的发展规律及后天经验的影响，正在开展自闭症、多动症情绪发展相关研究。近五年发表SCI论文3篇（第一作者2篇），国内核心刊物论文3篇（第一作者2篇）；作为主编之一出版《身临其境:那些被 VR 影响的心灵,身体与社会》一书；助教并主讲浙大心理系多门研究生和本科生课程；作为授课人在哈佛 HSYLC 峰会面向高中生开展 VR 科普类课程。
+严晨毓，现任浙江大学医学院附属儿童医院助理研究员，浙江省妇幼健康协会孤独症谱系障碍防治专业委员会委员，格里菲斯发育量表中文版认证评估师。于浙江大学心理与行为科学系获得博士学位，于浙江大学计算机学院数字媒体技术系获得学士学位。目前主要研究方向为儿童早期发展，结合虚拟现实、眼动、近红外等技术探讨语言、情绪、运动的发展规律及后天经验的影响，正在开展自闭症、多动症情绪发展相关研究。近五年发表SCI论文3篇（第一作者2篇），国内核心刊物论文3篇（第一作者2篇/通讯作者1篇）；作为主编之一出版《身临其境:那些被 VR 影响的心灵,身体与社会》一书；助教并主讲浙大心理系多门研究生和本科生课程；作为授课人在哈佛 HSYLC 峰会面向高中生开展 VR 科普类课程。
 
 ## 教育背景
 
@@ -24,11 +24,11 @@ permalink: /about/
 
 ## 发表作品
 
+| 2026.01 | [成梦婷, 徐琴美, 葛雨箐, 马洒, **严晨毓**.(2024).母亲回应方式与婴儿情绪调节策略使用的关系.*心理发展与教育*. 2026(02).162-171.](https://link.cnki.net/urlid/11.1608.B.20260122.1614.002)|
 | 2025.08 | [Shuzhong Lai, Chenxi Li, Junhong Lai, Yucun Zhong, **Chenyu Yan**, Xiang Li, Haifeng Li, Gang Pan, Lin Yao, Yueming Wang. (2025). ASD-iLLM:An Intervention Large Language Model for Autistic Children based on Real Clinical Dialogue Intervention Dataset. *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)*](https://openreview.net/forum?id=3tClKblAsv) |
 | 2025.07 | [车月苹，阮雯聪，徐佳露，李海峰，**严晨毓+**. (2025). 孤独症谱系障碍患儿家长心理健康状况及影响因素分析.*中国优生与遗传杂志*. 33(7).1659-1663. ]([https://jps.ecnu.edu.cn/CN/10.16719/j.cnki.1671-6981.20250105](https://kns.cnki.net/kcms2/article/abstract?v=Ss1McYY34CfjHz-jhrQQsAVxBL25KHKmtE4rE4SvcIBjAXKwkbWIuMIIK12-5SeA5thFraopngFwOL78Qv1-T0jMQgEuxb6hwEAN8p2daXvga71ve2bkammP3aSIDMoRJ5HEVxkvyfbUl_pmhookxsvqJky-ninrOrkOWuq2vIk=&uniplatform=NZKPT)) |
 | 2025.01 | [**严晨毓**,陈昕源,徐琴美. (2025). 5-9个月婴儿对音乐情绪的感知：基于瞳孔反应的分析.*心理科学*. 48(1).44-52. ](https://jps.ecnu.edu.cn/CN/10.16719/j.cnki.1671-6981.20250105) |
 | 2024.12 | [**严晨毓**,徐琴美,刘涛,成梦婷,马洒,葛雨箐.(2024). 婴儿能否感知音乐情绪？来自预期违背范式的证据. *心理与行为研究*. 22(4).494-500.](https://psybeh.tjnu.edu.cn/CN/10.12139/j.1672-0628.2024.04.009)  |
-| 2024.09 | 成梦婷, 徐琴美, 葛雨箐, 马洒, **严晨毓**.(2024).母亲回应方式与婴儿情绪调节策略使用的关系.*心理发展与教育*. |
 | 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. *Journal of Memory and Language*, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
 | 2022.07 | [**Yan, C.**, Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. *Quarterly Journal of Experimental Psychology*, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
 | 2019.12 | [**Yan, C.**, Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. *Experimental Brain Research*, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
@@ -129,11 +129,11 @@ permalink: /about/
 
 ## Publication
 
+| 2026.01 | [Mengting Cheng, Qinmei Xu, Yuqing Ge, Sa Ma, **Chenyu Yan**.(2024).The Relationship between Maternal Responses and Infant Emotion Regulation Strategies.*Psychological Development and Education*. 2026(02).162-171.](https://link.cnki.net/urlid/11.1608.B.20260122.1614.002) |
 | 2025.08 | [Shuzhong Lai, Chenxi Li, Junhong Lai, Yucun Zhong, **Chenyu Yan**, Xiang Li, Haifeng Li, Gang Pan, Lin Yao, Yueming Wang. (2025). ASD-iLLM:An Intervention Large Language Model for Autistic Children based on Real Clinical Dialogue Intervention Dataset. *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)*](https://openreview.net/forum?id=3tClKblAsv) |
 | 2025.07 | Yueping Che, Wencong Ruan, Jialu Xu, Haifeng Li, **Chenyu Yan+**. (2025). Parental mental health and associated factors in families of children with autism spectrum disorder.*Chinese Journal of Birth Health & Heredity*. 33(7).1659-1663. |
 | 2025.01 | **Chenyu Yan**, Xinyuan Chen, Qinmei Xu. (2024）Musical Emotion Perception in 5–9 Month Old Infants: Analysis Based on Pupil Responses.*Journal of Psychological Science*.  |
 | 2024.12 | [**Chenyu Yan**, Qinmei Xu, Tao Liu, Mengting Cheng, Sa Ma, Yuqing Ge.(2024). Infant Perception of Emotions from Music: Evidence from Violation-of-Expectation Paradigm. *Studies of Psychology and Behavior*. 22(4).494-500.](https://psybeh.tjnu.edu.cn/CN/10.12139/j.1672-0628.2024.04.009)  |
-| 2024.09 | Mengting Cheng, Qinmei Xu, Yuqing Ge, Sa Ma, **Chenyu Yan**.(2024).The Relationship between Maternal Responses and Infant Emotion Regulation Strategies.*Psychological Development and Education*. |
 | 2024.04 | [Lu, R., Li, Z., **Yan, C.**, Wang, T., & Li, Z. (2024). Storage interference in working memory cannot be removed by attention. Journal of Memory and Language, 136, 104498.](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000019) |
 | 2022.07 | [**Yan, C.**, Chen, Y., Zhang, Y., Kong, L., Durgin, F. H., & Li, Z. (2023). Perceptual scale expansion: A natural design for improving the precision of motor control. Quarterly Journal of Experimental Psychology, 76(7), 1481-1496.](https://journals.sagepub.com/doi/abs/10.1177/17470218221115075?journalCode=qjpd) |
 | 2019.12 | [**Yan, C.**, Chen, Y., Lu, Z., & Li, Z. (2020). Memories of motor adaptation do not necessarily decay with behavioral unlearning. Experimental Brain Research, 238(1), 171-180.](https://link.springer.com/article/10.1007/s00221-019-05703-y) |
