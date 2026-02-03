@@ -24,8 +24,8 @@ permalink: /about/
 
 ## 发表作品
 
-| 2026.01 | [成梦婷, 徐琴美, 葛雨箐, 马洒, **严晨毓**.(2026).母亲回应方式与婴儿情绪调节策略使用的关系.*心理发展与教育*. 2026(02).162-171.](https://link.cnki.net/urlid/11.1608.B.20260122.1614.002) |
-| 2025.11 | [鲍梦依，赵家靖，**严晨毓**，冯尚，潘纲，李海峰，王跃明，姚林，舒强.(2025).儿童ADHD数字药物的神经机制、应用进展与临床挑战.*中国现代应用药学*. 2025,42(22).3945-3953.](https://link.cnki.net/doi/10.13748/j.cnki.issn1007-7693.20252057) |
+| 2026.01 | [成梦婷, 徐琴美, 葛雨箐, 马洒, **严晨毓**.(2026).母亲回应方式与婴儿情绪调节策略使用的关系.*心理发展与教育*. 42(2).162-171.](https://link.cnki.net/urlid/11.1608.B.20260122.1614.002) |
+| 2025.11 | [鲍梦依，赵家靖，**严晨毓**，冯尚，潘纲，李海峰，王跃明，姚林，舒强.(2025).儿童ADHD数字药物的神经机制、应用进展与临床挑战.*中国现代应用药学*. 42(22).3945-3953.](https://link.cnki.net/doi/10.13748/j.cnki.issn1007-7693.20252057) |
 | 2025.08 | [Shuzhong Lai, Chenxi Li, Junhong Lai, Yucun Zhong, **Chenyu Yan**, Xiang Li, Haifeng Li, Gang Pan, Lin Yao, Yueming Wang. (2025). ASD-iLLM:An Intervention Large Language Model for Autistic Children based on Real Clinical Dialogue Intervention Dataset. *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)*](https://openreview.net/forum?id=3tClKblAsv) |
 | 2025.07 | [车月苹，阮雯聪，徐佳露，李海峰，**严晨毓+**. (2025). 孤独症谱系障碍患儿家长心理健康状况及影响因素分析.*中国优生与遗传杂志*. 33(7).1659-1663. ]([https://jps.ecnu.edu.cn/CN/10.16719/j.cnki.1671-6981.20250105](https://kns.cnki.net/kcms2/article/abstract?v=Ss1McYY34CfjHz-jhrQQsAVxBL25KHKmtE4rE4SvcIBjAXKwkbWIuMIIK12-5SeA5thFraopngFwOL78Qv1-T0jMQgEuxb6hwEAN8p2daXvga71ve2bkammP3aSIDMoRJ5HEVxkvyfbUl_pmhookxsvqJky-ninrOrkOWuq2vIk=&uniplatform=NZKPT)) |
 | 2025.01 | [**严晨毓**,陈昕源,徐琴美. (2025). 5-9个月婴儿对音乐情绪的感知：基于瞳孔反应的分析.*心理科学*. 48(1).44-52. ](https://jps.ecnu.edu.cn/CN/10.16719/j.cnki.1671-6981.20250105) |
@@ -130,8 +130,8 @@ permalink: /about/
 
 ## Publication
 
-| 2026.01 | [Mengting Cheng, Qinmei Xu, Yuqing Ge, Sa Ma, **Chenyu Yan**.(2026).The Relationship between Maternal Responses and Infant Emotion Regulation Strategies.*Psychological Development and Education*. 2026(02).162-171.](https://link.cnki.net/urlid/11.1608.B.20260122.1614.002) |
-| 2025.11 | [Mengyi Bao, Jiajing Zhao, **Chenyu Yan**, Shang Feng, Gang Pan, Haifeng Li, Yueming Wang, Lin Yao, Qiang Shu.(2025).Neural Mechanism, Application Progress and Clinical Challenges of Digital Drugs for ADHD Children.*Chinese Journal of Modern Applied Pharmacy*. 2025,42(22).3945-3953.](https://link.cnki.net/doi/10.13748/j.cnki.issn1007-7693.20252057) |
+| 2026.01 | [Mengting Cheng, Qinmei Xu, Yuqing Ge, Sa Ma, **Chenyu Yan**.(2026).The Relationship between Maternal Responses and Infant Emotion Regulation Strategies.*Psychological Development and Education*. 42(02).162-171.](https://link.cnki.net/urlid/11.1608.B.20260122.1614.002) |
+| 2025.11 | [Mengyi Bao, Jiajing Zhao, **Chenyu Yan**, Shang Feng, Gang Pan, Haifeng Li, Yueming Wang, Lin Yao, Qiang Shu.(2025).Neural Mechanism, Application Progress and Clinical Challenges of Digital Drugs for ADHD Children.*Chinese Journal of Modern Applied Pharmacy*. 42(22).3945-3953.](https://link.cnki.net/doi/10.13748/j.cnki.issn1007-7693.20252057) |
 | 2025.08 | [Shuzhong Lai, Chenxi Li, Junhong Lai, Yucun Zhong, **Chenyu Yan**, Xiang Li, Haifeng Li, Gang Pan, Lin Yao, Yueming Wang. (2025). ASD-iLLM:An Intervention Large Language Model for Autistic Children based on Real Clinical Dialogue Intervention Dataset. *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)*](https://openreview.net/forum?id=3tClKblAsv) |
 | 2025.07 | Yueping Che, Wencong Ruan, Jialu Xu, Haifeng Li, **Chenyu Yan+**. (2025). Parental mental health and associated factors in families of children with autism spectrum disorder.*Chinese Journal of Birth Health & Heredity*. 33(7).1659-1663. |
 | 2025.01 | **Chenyu Yan**, Xinyuan Chen, Qinmei Xu. (2024）Musical Emotion Perception in 5–9 Month Old Infants: Analysis Based on Pupil Responses.*Journal of Psychological Science*.  |
