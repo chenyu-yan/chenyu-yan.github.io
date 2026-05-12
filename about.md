@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# **中文版（Chinese Version)** (更新至2026.1）
+# **中文版（Chinese Version)** (更新至2026.5）
 
 ## 个人简介
 
@@ -24,6 +24,10 @@ permalink: /about/
 
 ## 发表作品
 
+| 2026.05 | [徐佳露, **严晨毓**, 马李洋, 李海峰. (2026) 孤独症谱系障碍患儿康复干预疗效与相关背景因素的探讨. *中国儿童保健杂志*. 34(5). 496-502.](https://doi.org/10.11852/zgetbjzz2025-0869) |
+| 2026.05 | [**Chenyu Yan**, Jialu Xu, Kexin Duan, Yifei Xiang, Haifeng Li. (2026). Sensory processing differences and behavioural problems in children with autism: a retrospective study using statistical modelling and multi-output machine learning. *BMJ Paediatrics Open*, 10(1).](https://bmjpaedsopen.bmj.com/content/10/1/e004343) |
+| 2026.04 | [Junhong Lai, Shuzhong Lai, Yanhao Yu, Wanlin Chen, **Chenyu Yan**, Haifeng Li, Lin Yao*, Yueming Wang. (2026). From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset. ACL 2026.](https://openreview.net/forum?id=hzQ2YIx85W) |
+| 2026.03 | [**Chenyu Yan**, Yuhan Liu, Jiajing Zhao, Mengyi Bao, Qing Zhou, Shang Feng, Haifeng Li, Gang Pan, Lin Yao, Yueming Wang. (2026). Integrating single-channel EEG neurofeedback into video game-based digital therapeutics for ADHD. *Journal of NeuroEngineering and Rehabilitation*, 23(1), 124.](https://link.springer.com/article/10.1186/s12984-026-01918-7) |
 | 2026.01 | [成梦婷, 徐琴美, 葛雨箐, 马洒, **严晨毓**.(2026).母亲回应方式与婴儿情绪调节策略使用的关系.*心理发展与教育*. 42(2).162-171.](https://link.cnki.net/urlid/11.1608.B.20260122.1614.002) |
 | 2025.11 | [鲍梦依，赵家靖，**严晨毓**，冯尚，潘纲，李海峰，王跃明，姚林，舒强.(2025).儿童ADHD数字药物的神经机制、应用进展与临床挑战.*中国现代应用药学*. 42(22).3945-3953.](https://link.cnki.net/doi/10.13748/j.cnki.issn1007-7693.20252057) |
 | 2025.08 | [Shuzhong Lai, Chenxi Li, Junhong Lai, Yucun Zhong, **Chenyu Yan**, Xiang Li, Haifeng Li, Gang Pan, Lin Yao, Yueming Wang. (2025). ASD-iLLM:An Intervention Large Language Model for Autistic Children based on Real Clinical Dialogue Intervention Dataset. *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)*](https://openreview.net/forum?id=3tClKblAsv) |
@@ -130,6 +134,10 @@ permalink: /about/
 
 ## Publication
 
+| 2026.05 | [XU Jialu, YAN Chenyu, MA Liyang, LI Haifeng. Efficacy of rehabilitation intervention in children with autism spectrum disorder and associated background factors[J]. *Chinese Journal of Child Health Care*. 34(5). 496-502.](https://doi.org/10.11852/zgetbjzz2025-0869) |
+| 2026.05 | [**Chenyu Yan**, Jialu Xu, Kexin Duan, Yifei Xiang, Haifeng Li. (2026). Sensory processing differences and behavioural problems in children with autism: a retrospective study using statistical modelling and multi-output machine learning. *BMJ Paediatrics Open*, 10(1).](https://bmjpaedsopen.bmj.com/content/10/1/e004343) |
+| 2026.04 | [Junhong Lai, Shuzhong Lai, Yanhao Yu, Wanlin Chen, **Chenyu Yan**, Haifeng Li, Lin Yao*, Yueming Wang. (2026). From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset. ACL 2026.](https://openreview.net/forum?id=hzQ2YIx85W) |
+| 2026.03 | [**Chenyu Yan**, Yuhan Liu, Jiajing Zhao, Mengyi Bao, Qing Zhou, Shang Feng, Haifeng Li, Gang Pan, Lin Yao, Yueming Wang. (2026). Integrating single-channel EEG neurofeedback into video game-based digital therapeutics for ADHD. *Journal of NeuroEngineering and Rehabilitation*, 23(1), 124.](https://link.springer.com/article/10.1186/s12984-026-01918-7) |
 | 2026.01 | [Mengting Cheng, Qinmei Xu, Yuqing Ge, Sa Ma, **Chenyu Yan**.(2026).The Relationship between Maternal Responses and Infant Emotion Regulation Strategies.*Psychological Development and Education*. 42(02).162-171.](https://link.cnki.net/urlid/11.1608.B.20260122.1614.002) |
 | 2025.11 | [Mengyi Bao, Jiajing Zhao, **Chenyu Yan**, Shang Feng, Gang Pan, Haifeng Li, Yueming Wang, Lin Yao, Qiang Shu.(2025).Neural Mechanism, Application Progress and Clinical Challenges of Digital Drugs for ADHD Children.*Chinese Journal of Modern Applied Pharmacy*. 42(22).3945-3953.](https://link.cnki.net/doi/10.13748/j.cnki.issn1007-7693.20252057) |
 | 2025.08 | [Shuzhong Lai, Chenxi Li, Junhong Lai, Yucun Zhong, **Chenyu Yan**, Xiang Li, Haifeng Li, Gang Pan, Lin Yao, Yueming Wang. (2025). ASD-iLLM:An Intervention Large Language Model for Autistic Children based on Real Clinical Dialogue Intervention Dataset. *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)*](https://openreview.net/forum?id=3tClKblAsv) |
